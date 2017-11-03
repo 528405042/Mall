@@ -1,0 +1,4578 @@
+{
+  "mall":{
+    "result": 1,
+    "message": "",
+    "bannerRatio": "720:270",
+    "banners": [
+      {
+        "bannerId": "110",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e21ce27556d.jpg",
+        "link": "25447",
+        "type": 1
+      },
+      {
+        "bannerId": "114",
+        "bannerImg": "http://img.shandjj.com/uploads/20171016/59e4682d930dc.jpg",
+        "link": "25645",
+        "type": 1
+      },
+      {
+        "bannerId": "105",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e2149febb5f.jpeg",
+        "link": "25487",
+        "type": 1
+      },
+      {
+        "bannerId": "100",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e162272bc88.jpeg",
+        "link": "25572",
+        "type": 1
+      }
+    ],
+    "templates": [
+      {
+        "title": "服饰",
+        "image": "http://img.shandjj.com/uploads/20170919/59c0e9c15b59a.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1061",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9cd34a77.png",
+            "type": "6",
+            "name": "男装",
+            "link": "1051",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1062",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9d579fcd.png",
+            "type": "6",
+            "name": "女装",
+            "link": "1052",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1063",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9df58e4f.jpg",
+            "type": "6",
+            "name": "内衣",
+            "link": "1053",
+            "wh": "224:177"
+          },
+          {
+            "tplItemId": "1064",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9e76f1d6.png",
+            "type": "6",
+            "name": "卫衣",
+            "link": "1061,1062,1065,1067",
+            "wh": "235:177"
+          }
+        ]
+      },
+      {
+        "title": "运动",
+        "image": "http://img.shandjj.com/uploads/20170919/59c0e94a59668.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1011",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9556c39c.png",
+            "type": "6",
+            "name": "鞋",
+            "link": "154",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1012",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e95c6f8e8.jpg",
+            "type": "6",
+            "name": "防晒服",
+            "link": "588,1171,1189,827,589",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1013",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9657dd4e.jpg",
+            "type": "6",
+            "name": "下装",
+            "link": "148",
+            "wh": "224:177"
+          },
+          {
+            "tplItemId": "1014",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e96e5c2c4.png",
+            "type": "6",
+            "name": "上装",
+            "link": "39",
+            "wh": "235:177"
+          }
+        ]
+      },
+      {
+        "title": "鞋包",
+        "image" : "http://img.shandjj.com/uploads/20170919/59c0e98a2d6c6.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1016",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e99409630.png",
+            "type": "6",
+            "name": "男鞋",
+            "link": "1424",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1017",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e99d5c4a1.png",
+            "type": "6",
+            "name": "女鞋",
+            "link": "1515",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1018",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9a5cfaa6.jpg",
+            "type": "6",
+            "name": "女包",
+            "link": "1463",
+            "wh": "224:197"
+          },
+          {
+            "tplItemId": "1019",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0e9ad57873.png",
+            "type": "6",
+            "name": "男包",
+            "link": "1451",
+            "wh": "235:197"
+          }
+        ]
+      },
+      {
+        "title": "美妆",
+        "image" : "http://img.shandjj.com/uploads/20170919/59c0e9f9a07d4.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1026",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ea02de52c.png",
+            "type": "6",
+            "name": "护肤",
+            "link": "1159",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1027",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ea0a00cc6.png",
+            "type": "6",
+            "name": "彩妆",
+            "link": "1160",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1028",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ea2aab6a2.jpg",
+            "type": "6",
+            "name": "护肤套装",
+            "link": "1170",
+            "wh": "224:197"
+          },
+          {
+            "tplItemId": "1029",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ea3214fcc.png",
+            "type": "6",
+            "name": "清洁护理",
+            "link": "1161",
+            "wh": "235:197"
+          }
+        ]
+      }
+    ],
+    "downBrands": {
+      "title": "闪电一下，我就降价",
+      "icon": "http://static.shandjj.com/app/images/mall/max_like_brand.png",
+      "items": [
+        {
+          "brandId": "6054",
+          "brandName": "caiting彩婷",
+          "max": "500",
+          "likeNum": "488",
+          "imgUrl": "http://img.shandjj.com/fdc/20170621/img/14980250488492890.jpg"
+        },
+        {
+          "brandId": "5910",
+          "brandName": "本草珍绿",
+          "max": "500",
+          "likeNum": "484",
+          "imgUrl": "http://img.shandjj.com/fdc/20170527/img/14958761468199381.jpg"
+        },
+        {
+          "brandId": "4629",
+          "brandName": "威卡司",
+          "max": "500",
+          "likeNum": "470",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170106/20/586f6175a0544.jpg"
+        },
+        {
+          "brandId": "6178",
+          "brandName": "三只小猫",
+          "max": "500",
+          "likeNum": "443",
+          "imgUrl": "http://img.shandjj.com/fdc/20170710/img/14996580136918304.jpg"
+        },
+        {
+          "brandId": "5853",
+          "brandName": "莱玛",
+          "max": "500",
+          "likeNum": "427",
+          "imgUrl": "http://img.shandjj.com/fdc/20170519/img/14951565234014540.jpg"
+        },
+        {
+          "brandId": "5958",
+          "brandName": "阿么",
+          "max": "500",
+          "likeNum": "422",
+          "imgUrl": "http://img.shandjj.com/fdc/20170606/img/14967368155704654.png"
+        },
+        {
+          "brandId": "5405",
+          "brandName": "朵薇璐 towakle",
+          "max": "500",
+          "likeNum": "383",
+          "imgUrl": "http://img.shandjj.com/fdc/20170314/img/14894718575920109.jpg"
+        },
+        {
+          "brandId": "",
+          "brandName": "更多",
+          "max": "500",
+          "likeNum": "0",
+          "imgUrl": ""
+        }
+      ]
+    },
+    "brands": {
+      "title": "猜你喜欢",
+      "icon": "http://static.shandjj.com/app/images/mall/user_like_brand.png",
+      "items": [
+        {
+          "brandId": "2061",
+          "brandName": "耐克nike",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170112/18/58771fc7e9233.png",
+          "isDown": "1"
+        },
+        {
+          "brandId": "1469",
+          "brandName": "New Balance新百伦",
+          "imgUrl": "http://img.shandjj.com/img/uploads/20150119/54bc726f1b82e.jpg",
+          "isDown": "1"
+        },
+        {
+          "brandId": "1865",
+          "brandName": "Puma彪马",
+          "imgUrl": "http://img.shandjj.com/img/uploads/20150120/54bdb1731d938.jpg",
+          "isDown": "1"
+        },
+        {
+          "brandId": "1711",
+          "brandName": "Abercrombie&Fitch",
+          "imgUrl": "http://img.shandjj.com/fdc/20170717/img/15002734323956895.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "3683",
+          "brandName": "Philipp Plein",
+          "imgUrl": "http://img.shandjj.com/fdc/2016/20160518/17/573c25114ef6e.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "4028",
+          "brandName": "HEIPAR嘿帕",
+          "imgUrl": "http://img.shandjj.com/fdc/20170418/img/14925304667576510.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "3646",
+          "brandName": "RALPH LAUREN 拉夫劳伦",
+          "imgUrl": "http://img.shandjj.com/fdc/2016/20160429/51/572320791c96a.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "",
+          "brandName": "更多",
+          "imgUrl": "",
+          "isDown": 0
+        }
+      ]
+    },
+    "goods": {
+      "title": "推荐商品",
+      "icon": "http://static.shandjj.com/app/images/mall/user_recommand_goods.png",
+      "items": [
+        {
+          "goodsId": "983609",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-3-112",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "126",
+          "img120url": "http://img.shandjj.com/fdc/20170916/img/b06f017a3808852bf990b8c9d6caea78_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170916/img/b06f017a3808852bf990b8c9d6caea78_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170916/img/b06f017a3808852bf990b8c9d6caea78_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "989478",
+          "goodsName": "蔻驰 COACH 奢侈品 女士沙色皮质单肩斜挎包 F11784 QB/SD",
+          "crazyPrice": "899",
+          "shopPrice": "2290",
+          "stocknum": "99",
+          "img120url": "http://img.shandjj.com/fdc/20170921/img/4fecd840e79b8c31e3a76932523243a1_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170921/img/4fecd840e79b8c31e3a76932523243a1_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170921/img/4fecd840e79b8c31e3a76932523243a1_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "967350",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 板鞋休闲鞋 102329",
+          "crazyPrice": "199",
+          "shopPrice": "369",
+          "stocknum": "758",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.3"
+        },
+        {
+          "goodsId": "525257",
+          "goodsName": "Supreme2017秋季新款男女简约BOX刺绣加绒连帽卫衣 HD034",
+          "crazyPrice": "279",
+          "shopPrice": "699",
+          "stocknum": "154",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161010/57/65b7e088085dfb8d24fb24f92e466afd_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161010/57/65b7e088085dfb8d24fb24f92e466afd_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161010/57/65b7e088085dfb8d24fb24f92e466afd_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "967361",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 情侣板鞋 男女休闲鞋 102307",
+          "crazyPrice": "249",
+          "shopPrice": "429",
+          "stocknum": "1223",
+          "img120url": "http://img.shandjj.com/fdc/20170503/img/16ba5a39c1320fd942acf251850bfa15_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170503/img/16ba5a39c1320fd942acf251850bfa15_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170503/img/16ba5a39c1320fd942acf251850bfa15_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.8"
+        },
+        {
+          "goodsId": "886343",
+          "goodsName": "Supreme2017秋季新款男女supreme柏林签名款圆领卫衣 HD043",
+          "crazyPrice": "279",
+          "shopPrice": "699",
+          "stocknum": "198",
+          "img120url": "http://img.shandjj.com/fdc/20170713/img/9830f8ca1b590e417dac358ae768a279_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170713/img/9830f8ca1b590e417dac358ae768a279_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170713/img/9830f8ca1b590e417dac358ae768a279_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "991819",
+          "goodsName": "BOY LONDON秋季新品潮牌男女同款防晒衣 NTH1-6-103",
+          "crazyPrice": "399",
+          "shopPrice": "1780",
+          "stocknum": "18",
+          "img120url": "http://img.shandjj.com/fdc/20170923/img/119367ab35edd56f8fa39df67330b069_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170923/img/119367ab35edd56f8fa39df67330b069_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170923/img/119367ab35edd56f8fa39df67330b069_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.2"
+        },
+        {
+          "goodsId": "984302",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-3-109",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "151",
+          "img120url": "http://img.shandjj.com/fdc/20170917/img/907c0e648827e9c22ac6d981619dd3e9_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170917/img/907c0e648827e9c22ac6d981619dd3e9_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170917/img/907c0e648827e9c22ac6d981619dd3e9_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "878003",
+          "goodsName": "whoo/后拱辰享乳液 气韵生滋养乳提亮肤色110ml",
+          "crazyPrice": "309",
+          "shopPrice": "428",
+          "stocknum": "9991",
+          "img120url": "http://img.shandjj.com/fdc/20170706/img/e4c8e0ac1d98d4e8d2f9c55f1e98923b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170706/img/e4c8e0ac1d98d4e8d2f9c55f1e98923b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170706/img/e4c8e0ac1d98d4e8d2f9c55f1e98923b_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降30元，实付279元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "886473",
+          "goodsName": "（99选2）欧珀莱 时光锁紧致塑颜系列三件套",
+          "crazyPrice": "89",
+          "shopPrice": "150",
+          "stocknum": "171",
+          "img120url": "http://img.shandjj.com/fdc/20170713/img/7fec906a62c4c1a30fb43190b3c2aed5_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170713/img/7fec906a62c4c1a30fb43190b3c2aed5_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170713/img/7fec906a62c4c1a30fb43190b3c2aed5_640_640.jpg",
+          "discount": "4.6",
+          "flashPrice": "下单闪降20元，实付69元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "997691",
+          "goodsName": "新款斯凯奇skechers透气轻便男女鞋系带休闲舒适印花跑鞋12739（3）",
+          "crazyPrice": "369",
+          "shopPrice": "529",
+          "stocknum": "983",
+          "img120url": "http://img.shandjj.com/fdc/20170927/img/b0006d1e4629df9d1160dab855286f90_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170927/img/b0006d1e4629df9d1160dab855286f90_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170927/img/b0006d1e4629df9d1160dab855286f90_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降20元，实付349元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "997689",
+          "goodsName": "新款斯凯奇skechers透气轻便男女鞋系带休闲舒适印花跑鞋12739（3）",
+          "crazyPrice": "369",
+          "shopPrice": "529",
+          "stocknum": "998",
+          "img120url": "http://img.shandjj.com/fdc/20170927/img/345e7c96a48c11c2e4862277509555a6_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170927/img/345e7c96a48c11c2e4862277509555a6_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170927/img/345e7c96a48c11c2e4862277509555a6_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降20元，实付349元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "920747",
+          "goodsName": "梵柯施宽松短袖九分裤两件套145",
+          "crazyPrice": "89",
+          "shopPrice": "399",
+          "stocknum": "384",
+          "img120url": "http://img.shandjj.com/fdc/20170804/img/87514b901b06d64636ae5fe05333f1f8_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170804/img/87514b901b06d64636ae5fe05333f1f8_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170804/img/87514b901b06d64636ae5fe05333f1f8_640_640.jpg",
+          "discount": "1.9",
+          "flashPrice": "下单闪降10元，实付79元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "920725",
+          "goodsName": "梵柯施棒球服夹克两件套8797",
+          "crazyPrice": "109",
+          "shopPrice": "599",
+          "stocknum": "127",
+          "img120url": "http://img.shandjj.com/fdc/20170804/img/270e7167da416cfe4b0cad5ec7c80ae8_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170804/img/270e7167da416cfe4b0cad5ec7c80ae8_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170804/img/e07d8f60e0e9fb6de1fd9f9df02accca_640_640.jpg",
+          "discount": "1.6",
+          "flashPrice": "下单闪降10元，实付99元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "374560",
+          "goodsName": "哥斯兰顿  春夏情侣超轻跑步鞋 透气网面减震跑鞋休闲百搭户外鞋 YD2067",
+          "crazyPrice": "199",
+          "shopPrice": "498",
+          "stocknum": "2195",
+          "img120url": "http://img.shandjj.com/fdc/20170710/img/5c0eeec5e710078c6238c70631d50b91_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170710/img/5c0eeec5e710078c6238c70631d50b91_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170710/img/5c0eeec5e710078c6238c70631d50b91_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "878009",
+          "goodsName": " whoo/后 拱辰享爽肤水气韵生滋养液150ml",
+          "crazyPrice": "309",
+          "shopPrice": "428",
+          "stocknum": "995",
+          "img120url": "http://img.shandjj.com/fdc/20170706/img/ea11752eba8e9cb692b52936e22242fc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170706/img/ea11752eba8e9cb692b52936e22242fc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170706/img/ea11752eba8e9cb692b52936e22242fc_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降30元，实付279元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "391310",
+          "goodsName": "哥斯兰顿 四季男女款跑步运动鞋 JS5058",
+          "crazyPrice": "109",
+          "shopPrice": "399",
+          "stocknum": "4813",
+          "img120url": "http://img.shandjj.com/fdc/20170710/img/24c47fa1897c7ba6d68a6ea2c51f0ccb_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170710/img/2632c64cc5431c07e564338917f1e714_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170710/img/2632c64cc5431c07e564338917f1e714_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.7"
+        },
+        {
+          "goodsId": "927001",
+          "goodsName": "日本AKAW焖烧锅520ml 不锈钢保温桶 粉蓝色6937317201346",
+          "crazyPrice": "129",
+          "shopPrice": "199",
+          "stocknum": "994",
+          "img120url": "http://img.shandjj.com/fdc/20170828/img/e0c63dd42284f47b741ab1f86e30dfb6_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170828/img/e0c63dd42284f47b741ab1f86e30dfb6_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170828/img/e0c63dd42284f47b741ab1f86e30dfb6_640_640.jpg",
+          "discount": "5.4",
+          "flashPrice": "下单闪降20元，实付109元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "973632",
+          "goodsName": "Puma 彪马 男女情侣款厚底松糕鞋板鞋364462-01",
+          "crazyPrice": "439",
+          "shopPrice": "798",
+          "stocknum": "449",
+          "img120url": "http://img.shandjj.com/fdc/20170912/img/a29bf19fca50a37c8919ebf239ede79e_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170912/img/a29bf19fca50a37c8919ebf239ede79e_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170912/img/a29bf19fca50a37c8919ebf239ede79e_640_640.jpg",
+          "discount": "5.1",
+          "flashPrice": "下单闪降30元，实付409元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "711593",
+          "goodsName": "Puma 彪马 女士低帮蝴蝶结百搭板鞋小白鞋白色运动休闲鞋363073-02",
+          "crazyPrice": "439",
+          "shopPrice": "1099",
+          "stocknum": "347",
+          "img120url": "http://img.shandjj.com/fdc/20170319/img/db12c78204a31eba200e387ee21e96e1_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170319/img/db12c78204a31eba200e387ee21e96e1_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170319/img/db12c78204a31eba200e387ee21e96e1_640_640.jpg",
+          "discount": "3.7",
+          "flashPrice": "下单闪降30元，实付409元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "814036",
+          "goodsName": "BURBERRY/巴宝莉 正品手表女士腕表英伦格纹皮质圆盘手表 石英男表 BU1399/BU1399",
+          "crazyPrice": "619",
+          "shopPrice": "2280",
+          "stocknum": "40",
+          "img120url": "http://img.shandjj.com/fdc/20170714/img/fd81e614420eb42686b8ec9022e13de0_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170714/img/fd81e614420eb42686b8ec9022e13de0_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170714/img/fd81e614420eb42686b8ec9022e13de0_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.7"
+        },
+        {
+          "goodsId": "707804",
+          "goodsName": "（99选2）SK-II护肤精华露10ml SK-II小样进来可选",
+          "crazyPrice": "79",
+          "shopPrice": "100",
+          "stocknum": "2703",
+          "img120url": "http://img.shandjj.com/fdc/20170317/img/f07e7fa71bb7f9c27c2786b7b6af5836_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170317/img/f07e7fa71bb7f9c27c2786b7b6af5836_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170317/img/f07e7fa71bb7f9c27c2786b7b6af5836_640_640.jpg",
+          "discount": "6.9",
+          "flashPrice": "下单闪降10元，实付69元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "709078",
+          "goodsName": "Adidas阿迪达斯 TUBULAR小椰子情侣跑步鞋BB8824",
+          "crazyPrice": "519",
+          "shopPrice": "799",
+          "stocknum": "278",
+          "img120url": "http://img.shandjj.com/fdc/20170317/img/9ea09dc66a6eb56fe652f0920c1b17d4_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170317/img/9ea09dc66a6eb56fe652f0920c1b17d4_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170317/img/9ea09dc66a6eb56fe652f0920c1b17d4_640_640.jpg",
+          "discount": "6.1",
+          "flashPrice": "下单闪降30元，实付489元",
+          "cutPrice": "-30",
+          "saleType": 3
+        },
+        {
+          "goodsId": "709167",
+          "goodsName": "Nike耐克 Air Huarache情侣跑鞋819685-001",
+          "crazyPrice": "499",
+          "shopPrice": "849",
+          "stocknum": "189",
+          "img120url": "http://img.shandjj.com/fdc/20170317/img/1ba1ef81d8d49213ef05dbd78bb1950e_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170317/img/1ba1ef81d8d49213ef05dbd78bb1950e_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170317/img/1ba1ef81d8d49213ef05dbd78bb1950e_640_640.jpg",
+          "discount": "5.6",
+          "flashPrice": "下单闪降20元，实付479元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "978798",
+          "goodsName": "梵柯施秋冬季加绒带帽卫衣6505",
+          "crazyPrice": "79",
+          "shopPrice": "299",
+          "stocknum": "614",
+          "img120url": "http://img.shandjj.com/fdc/20170925/img/47652d6da582a5cc95f783105935dbfe_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170925/img/47652d6da582a5cc95f783105935dbfe_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170925/img/47652d6da582a5cc95f783105935dbfe_640_640.jpg",
+          "discount": "2.3",
+          "flashPrice": "下单闪降10元，实付69元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "472675",
+          "goodsName": "【日本进口】蝶翠诗DHC 橄榄保湿护唇膏天然植物润唇1.5g   rbg",
+          "crazyPrice": "64",
+          "shopPrice": "68",
+          "stocknum": "649",
+          "img120url": "http://img.shandjj.com/fdc/2016/20160816/07/4ef6bd56b2bdc7619357c4683c33c1cd_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20160816/07/4ef6bd56b2bdc7619357c4683c33c1cd_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20160816/07/4ef6bd56b2bdc7619357c4683c33c1cd_640_640.jpg",
+          "discount": "7.7",
+          "flashPrice": "下单闪降11元，实付53元",
+          "cutPrice": "-11",
+          "saleType": 3
+        },
+        {
+          "goodsId": "983657",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-1-105",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "82",
+          "img120url": "http://img.shandjj.com/fdc/20170916/img/251b25686c965ebfde5c3f9ade8730ea_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170916/img/251b25686c965ebfde5c3f9ade8730ea_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170916/img/e592b72157344f803348a5113c2129a7_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "967358",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 男女板鞋 情侣高帮休闲鞋 101009",
+          "crazyPrice": "249",
+          "shopPrice": "429",
+          "stocknum": "1312",
+          "img120url": "http://img.shandjj.com/fdc/20170503/img/886459e1ac3e494f3f9148e37af5ed5d_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170503/img/886459e1ac3e494f3f9148e37af5ed5d_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170503/img/886459e1ac3e494f3f9148e37af5ed5d_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.8"
+        },
+        {
+          "goodsId": "943124",
+          "goodsName": "Philipp Plein2017秋冬男士修身潮牌骷髅头长袖T恤PP18643",
+          "crazyPrice": "369",
+          "shopPrice": "2499",
+          "stocknum": "68",
+          "img120url": "http://img.shandjj.com/fdc/20170821/img/49c4ca1700f66a6f8a1829d57be1f971_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170821/img/49c4ca1700f66a6f8a1829d57be1f971_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170821/img/49c4ca1700f66a6f8a1829d57be1f971_640_640.jpg",
+          "discount": "1.3",
+          "flashPrice": "下单闪降20元，实付349元",
+          "cutPrice": "-20",
+          "saleType": 4
+        },
+        {
+          "goodsId": "944308",
+          "goodsName": "Philipp Plein2017秋款男士修身圆领骷髅头潮牌夹克PP 18643",
+          "crazyPrice": "379",
+          "shopPrice": "2699",
+          "stocknum": "241",
+          "img120url": "http://img.shandjj.com/fdc/20170822/img/2ddb3656ab1bc3ff0ddb171f298fbfdc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170822/img/2ddb3656ab1bc3ff0ddb171f298fbfdc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170822/img/2ddb3656ab1bc3ff0ddb171f298fbfdc_640_640.jpg",
+          "discount": "1.3",
+          "flashPrice": "下单闪降20元，实付359元",
+          "cutPrice": "-20",
+          "saleType": 4
+        },
+        {
+          "goodsId": "918183",
+          "goodsName": "Supreme2017秋季新款男拼色字母隐藏口袋卫衣 HD066",
+          "crazyPrice": "269",
+          "shopPrice": "699",
+          "stocknum": "29",
+          "img120url": "http://img.shandjj.com/fdc/20170802/img/42fc8734a6dcb6f7602858fb54dbff89_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170802/img/42fc8734a6dcb6f7602858fb54dbff89_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170802/img/42fc8734a6dcb6f7602858fb54dbff89_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.8"
+        },
+        {
+          "goodsId": "951376",
+          "goodsName": "Supreme2017秋季新款男经典刺绣镂空LOGO卫衣 HD089",
+          "crazyPrice": "269",
+          "shopPrice": "699",
+          "stocknum": "131",
+          "img120url": "http://img.shandjj.com/fdc/20170827/img/62252ef3540998710b36d3a157b081fc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170827/img/62252ef3540998710b36d3a157b081fc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170827/img/62252ef3540998710b36d3a157b081fc_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.8"
+        },
+        {
+          "goodsId": "958668",
+          "goodsName": "COACH蔻驰 男士两折短款钱包钱夹卡包 74736 黑色",
+          "crazyPrice": "369",
+          "shopPrice": "1090",
+          "stocknum": "96",
+          "img120url": "http://img.shandjj.com/fdc/20170730/img/0c0d011e21e8f71360ef9aa74ea28680_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170730/img/0c0d011e21e8f71360ef9aa74ea28680_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170730/img/bebfccc5cab377915e4f429bbe421f23_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.3"
+        },
+        {
+          "goodsId": "958662",
+          "goodsName": "COACH/蔻驰 PVC 男士短款钱包钱夹 74991黑色",
+          "crazyPrice": "359",
+          "shopPrice": "1090",
+          "stocknum": "94",
+          "img120url": "http://img.shandjj.com/fdc/20170730/img/9a0de8503c9ecc04e1d467e6f6c025b5_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170730/img/9a0de8503c9ecc04e1d467e6f6c025b5_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170730/img/9a0de8503c9ecc04e1d467e6f6c025b5_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.2"
+        },
+        {
+          "goodsId": "764120",
+          "goodsName": "原装正品ZIPPO打火机 205磨砂新标志 免费刻字",
+          "crazyPrice": "139",
+          "shopPrice": "358",
+          "stocknum": "127",
+          "img120url": "http://img.shandjj.com/fdc/20170420/img/d1ef586451658cc05be73d4d2fdd1a12_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170420/img/d1ef586451658cc05be73d4d2fdd1a12_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170420/img/5d8c440b530601d309cf4fcd5fd95371_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.8"
+        },
+        {
+          "goodsId": "991807",
+          "goodsName": "BOY LONDON秋季新品潮牌男女同款防晒衣 NTH1-6-102",
+          "crazyPrice": "399",
+          "shopPrice": "1780",
+          "stocknum": "25",
+          "img120url": "http://img.shandjj.com/fdc/20170923/img/cf32c0fad3e0742a7e9a0dc3188d4396_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170923/img/cf32c0fad3e0742a7e9a0dc3188d4396_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170923/img/cf32c0fad3e0742a7e9a0dc3188d4396_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.2"
+        },
+        {
+          "goodsId": "983450",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-2-104",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "187",
+          "img120url": "http://img.shandjj.com/fdc/20170916/img/90bd0e822f1de5d9807dc71180eb88b3_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170916/img/90bd0e822f1de5d9807dc71180eb88b3_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170916/img/90bd0e822f1de5d9807dc71180eb88b3_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "967357",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 男女板鞋 情侣休闲鞋 101007",
+          "crazyPrice": "199",
+          "shopPrice": "369",
+          "stocknum": "1210",
+          "img120url": "http://img.shandjj.com/fdc/20170503/img/ca2e780c6a7dbe659f5463c4d01bd07b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170503/img/ca2e780c6a7dbe659f5463c4d01bd07b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170503/img/ca2e780c6a7dbe659f5463c4d01bd07b_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.3"
+        },
+        {
+          "goodsId": "85345",
+          "goodsName": "原装正品zippo打火机 礼盒套装（礼盒+礼袋+小油+火石）礼盒颜色随机发",
+          "crazyPrice": "69",
+          "shopPrice": "128",
+          "stocknum": "1481",
+          "img120url": "http://img.shandjj.com/fdc/20170828/img/20a2057a531aa9f9311b09a5e5d02302_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170828/img/20a2057a531aa9f9311b09a5e5d02302_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170828/img/20a2057a531aa9f9311b09a5e5d02302_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.3"
+        },
+        {
+          "goodsId": "997499",
+          "goodsName": "Skechers斯凯奇D’lites明星情侣熊猫鞋休闲厚底潮流运动鞋99999720（3）",
+          "crazyPrice": "379",
+          "shopPrice": "599",
+          "stocknum": "771",
+          "img120url": "http://img.shandjj.com/fdc/20170926/img/56b4e7b2491938e8a8bc0a510ec081c5_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170926/img/56b4e7b2491938e8a8bc0a510ec081c5_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170926/img/56b4e7b2491938e8a8bc0a510ec081c5_640_640.jpg",
+          "discount": "5.9",
+          "flashPrice": "下单闪降20元，实付359元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "997531",
+          "goodsName": "春季Skechers斯凯奇情人节限量运动鞋 D'lites情侣熊猫鞋99999693（3）",
+          "crazyPrice": "399",
+          "shopPrice": "649",
+          "stocknum": "880",
+          "img120url": "http://img.shandjj.com/fdc/20170926/img/180526a2e9571c4a5d5946fa98c5131b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170926/img/180526a2e9571c4a5d5946fa98c5131b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170926/img/180526a2e9571c4a5d5946fa98c5131b_640_640.jpg",
+          "discount": "5.8",
+          "flashPrice": "下单闪降20元，实付379元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "993600",
+          "goodsName": "IGLDSI 哥斯兰顿秋冬男女款运动潮鞋 YD1600",
+          "crazyPrice": "139",
+          "shopPrice": "399",
+          "stocknum": "3200",
+          "img120url": "http://img.shandjj.com/fdc/20170925/img/2edfbbce62cb0a7739820194315fcd01_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170925/img/2edfbbce62cb0a7739820194315fcd01_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170925/img/2edfbbce62cb0a7739820194315fcd01_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.4"
+        },
+        {
+          "goodsId": "741922",
+          "goodsName": "哥斯兰顿 情侣时尚篮球战靴高档材质 潮2089",
+          "crazyPrice": "199",
+          "shopPrice": "399",
+          "stocknum": "1023",
+          "img120url": "http://img.shandjj.com/fdc/20170710/img/8a811dd347d8b5f6ff0a02b812ce7731_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170710/img/8a811dd347d8b5f6ff0a02b812ce7731_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170710/img/8a811dd347d8b5f6ff0a02b812ce7731_640_640.jpg",
+          "saleType": 4,
+          "discount": "4.9"
+        },
+        {
+          "goodsId": "912438",
+          "goodsName": "左岸2017秋冬季新品韩版修身时尚个性迷彩纹连帽卫衣ZA-JKS1802",
+          "crazyPrice": "79",
+          "shopPrice": "399",
+          "stocknum": "785",
+          "img120url": "http://img.shandjj.com/fdc/20170729/img/242341060cee4a9cef22ccb54f9aaf6b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170729/img/242341060cee4a9cef22ccb54f9aaf6b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170729/img/242341060cee4a9cef22ccb54f9aaf6b_640_640.jpg",
+          "saleType": 4,
+          "discount": "1.9"
+        },
+        {
+          "goodsId": "940163",
+          "goodsName": "2人组秋夏季男士衬衫薄长袖潮男潮流印花帅气长袖修身衬衫日系复古衣服AC8541",
+          "crazyPrice": "119",
+          "shopPrice": "398",
+          "stocknum": "787",
+          "img120url": "http://img.shandjj.com/fdc/20170818/img/c1c72b3edc7356fc24400a78ea5b93dc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170818/img/c1c72b3edc7356fc24400a78ea5b93dc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170818/img/c1c72b3edc7356fc24400a78ea5b93dc_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.9"
+        },
+        {
+          "goodsId": "940113",
+          "goodsName": "2人组纯棉牛仔外套男长袖衬衫修身休闲牛仔衬衣韩版帅气薄款学生寸衫潮AC8517",
+          "crazyPrice": "119",
+          "shopPrice": "398",
+          "stocknum": "393",
+          "img120url": "http://img.shandjj.com/fdc/20170818/img/299cb9dd7ca453e9149260b16fcdd597_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170818/img/299cb9dd7ca453e9149260b16fcdd597_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170818/img/299cb9dd7ca453e9149260b16fcdd597_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.9"
+        },
+        {
+          "goodsId": "927973",
+          "goodsName": "【推荐】 希路猎人男鞋秋冬潮鞋新款运动鞋男韩版百搭男士休闲鞋青少年潮流鞋子735",
+          "crazyPrice": "149",
+          "shopPrice": "599",
+          "stocknum": "520",
+          "img120url": "http://img.shandjj.com/fdc/20170810/img/7724a8342168b91c6222a881acffa3fc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170810/img/7724a8342168b91c6222a881acffa3fc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170810/img/7724a8342168b91c6222a881acffa3fc_640_640.jpg",
+          "discount": "2.3",
+          "flashPrice": "下单闪降10元，实付139元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "956512",
+          "goodsName": "【推荐】 希路猎人男鞋秋冬潮鞋新款运动鞋男韩版百搭男士休闲鞋青少年潮流鞋子9710",
+          "crazyPrice": "139",
+          "shopPrice": "599",
+          "stocknum": "555",
+          "img120url": "http://img.shandjj.com/fdc/20170830/img/bf977f700f3dc60597178cdc2dad8e30_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170830/img/bf977f700f3dc60597178cdc2dad8e30_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170830/img/bf977f700f3dc60597178cdc2dad8e30_640_640.jpg",
+          "discount": "2.1",
+          "flashPrice": "下单闪降10元，实付129元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "927111",
+          "goodsName": "日本AKAW保温杯350ML 双层真空保温 奶白色6937317200202",
+          "crazyPrice": "99",
+          "shopPrice": "299",
+          "stocknum": "21",
+          "img120url": "http://img.shandjj.com/fdc/20170828/img/8706173b7e7bce5edb5c6657e19f04a3_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170828/img/8706173b7e7bce5edb5c6657e19f04a3_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170828/img/8706173b7e7bce5edb5c6657e19f04a3_640_640.jpg",
+          "discount": "2.6",
+          "flashPrice": "下单闪降20元，实付79元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "690160",
+          "goodsName": "锐度男士精油多效舒活霜 乳液 亮肤补水保湿 清爽滋润舒缓护肤品50g",
+          "crazyPrice": "59",
+          "shopPrice": "165",
+          "stocknum": "143",
+          "img120url": "http://img.shandjj.com/fdc/20170921/img/645479d40c75af7a94b50e51908d288f_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170921/img/cf1ba3aeffe030e6014c57d9ab514a21_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170921/img/cf1ba3aeffe030e6014c57d9ab514a21_640_640.jpg",
+          "discount": "2.3",
+          "flashPrice": "下单闪降20元，实付39元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "1006490",
+          "goodsName": "【新客】LAOKS 法国潮流街拍鞋百搭时尚休闲鞋三色可选YG-C706",
+          "crazyPrice": "119.00",
+          "stocknum": "14138",
+          "shopPrice": "398.00",
+          "img120url": "http://img.shandjj.com/fdc/20171011/img/492544d659ed4dc34bf8ea1f036b0c5f_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20171011/img/492544d659ed4dc34bf8ea1f036b0c5f_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20171011/img/c2513d0e13c0be85935134ab1d8e4fb8_640_640.jpg",
+          "discount": "2.4",
+          "flashPrice": "下单闪降20元，实付99元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "916765",
+          "goodsName": "【新客】LAOKS 法国潮流街拍鞋百搭时尚休闲鞋三色可选YG1651",
+          "crazyPrice": "109.00",
+          "stocknum": "13322",
+          "shopPrice": "599.00",
+          "img120url": "http://img.shandjj.com/fdc/20170802/img/5b70fca708fcb47a762b9f67536b812c_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170802/img/5b70fca708fcb47a762b9f67536b812c_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170802/img/5b70fca708fcb47a762b9f67536b812c_640_640.jpg",
+          "discount": "1.4",
+          "flashPrice": "下单闪降20元，实付89元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "952394",
+          "goodsName": "花花公子男士自动扣皮带时尚休闲牛皮腰带",
+          "crazyPrice": "69.00",
+          "stocknum": "732",
+          "shopPrice": "229.00",
+          "img120url": "http://img.shandjj.com/fdc/20170828/img/2e50a18a0cbc4d7e2b1544193805d698_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170828/img/2e50a18a0cbc4d7e2b1544193805d698_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170828/img/2e50a18a0cbc4d7e2b1544193805d698_640_640.jpg",
+          "discount": "2.1",
+          "flashPrice": "下单闪降20元，实付49元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "962995",
+          "goodsName": "【新客】COMVIEW坦牛 秋季爆款气垫飞线运动男鞋 JD-1713",
+          "crazyPrice": "119.00",
+          "stocknum": "6152",
+          "shopPrice": "398.00",
+          "img120url": "http://img.shandjj.com/fdc/20170905/img/7b4eb0e909db81fd4f12d3047fab46b5_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170905/img/7b4eb0e909db81fd4f12d3047fab46b5_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170905/img/7b4eb0e909db81fd4f12d3047fab46b5_640_640.jpg",
+          "discount": "2.4",
+          "flashPrice": "下单闪降20元，实付99元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "964648",
+          "goodsName": "新客 勃乐-青春简约 秋季新款时尚英伦板鞋 YG-8040",
+          "crazyPrice": "109.00",
+          "stocknum": "3826",
+          "shopPrice": "399.00",
+          "img120url": "http://img.shandjj.com/fdc/20170906/img/8b2109bf2ad48b4018a7b4bf86b4784d_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170906/img/8b2109bf2ad48b4018a7b4bf86b4784d_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170906/img/8b2109bf2ad48b4018a7b4bf86b4784d_640_640.jpg",
+          "discount": "2.2",
+          "flashPrice": "下单闪降20元，实付89元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "948946",
+          "goodsName": "范特华特 男 秋冬休闲板鞋 FH-5888",
+          "crazyPrice": "119.00",
+          "stocknum": "3590",
+          "shopPrice": "539.00",
+          "img120url": "http://img.shandjj.com/fdc/20170825/img/b8e6061c80f7f5b2218ea65710c51a42_120_120.JPG",
+          "img320url": "http://img.shandjj.com/fdc/20170825/img/b8e6061c80f7f5b2218ea65710c51a42_320_320.JPG",
+          "img640url": "http://img.shandjj.com/fdc/20170825/img/b8e6061c80f7f5b2218ea65710c51a42_640_640.JPG",
+          "discount": "2.0",
+          "flashPrice": "下单闪降10元，实付109元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "967118",
+          "goodsName": "JINSTU 女 秋冬伦风粗跟秋季短靴 7218",
+          "crazyPrice": "109.00",
+          "stocknum": "2967",
+          "shopPrice": "159.00",
+          "img120url": "http://img.shandjj.com/fdc/20170908/img/4b16943756659476c90c30e76f4de847_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170908/img/4b16943756659476c90c30e76f4de847_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170908/img/4b16943756659476c90c30e76f4de847_640_640.jpg",
+          "saleType": 4,
+          "discount": "6.8"
+        },
+        {
+          "goodsId": "650084",
+          "goodsName": "路易克思舒适软底鞋男皮鞋男真皮圆头低帮男鞋商务休闲鞋英伦鞋子5585",
+          "crazyPrice": "99.00",
+          "stocknum": "61614",
+          "shopPrice": "399.00",
+          "img120url": "http://img.shandjj.com/fdc/2017/20170118/38/28423e44c78c9a78813a43465904bdbb_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2017/20170118/38/28423e44c78c9a78813a43465904bdbb_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2017/20170118/38/1a8a2eafb40dafaa58e60a1b5e09e749_640_640.jpg",
+          "discount": "2.2",
+          "flashPrice": "下单闪降10元，实付89元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "704683",
+          "goodsName": "柏丽雅诗 韩版新款时尚链条锁扣小方包休闲百搭单肩斜挎包",
+          "crazyPrice": "39.00",
+          "stocknum": "24470",
+          "shopPrice": "299.00",
+          "img120url": "http://img.shandjj.com/fdc/20170315/img/65fdc99e646a45262981e6047b4574ed_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170315/img/65fdc99e646a45262981e6047b4574ed_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170315/img/65fdc99e646a45262981e6047b4574ed_640_640.jpg",
+          "saleType": 4,
+          "discount": "1.3"
+        },
+        {
+          "goodsId": "728774",
+          "goodsName": "LAMMA ISLAND-范冰冰同款双肩同款背包潮牛津布女包休闲旅行包大牌单肩贝壳包-2653-1",
+          "crazyPrice": "59.00",
+          "stocknum": "6384",
+          "shopPrice": "899.00",
+          "img120url": "http://img.shandjj.com/fdc/20170328/img/638cc786d6162d57888ebaca995b28c8_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170328/img/638cc786d6162d57888ebaca995b28c8_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170328/img/638cc786d6162d57888ebaca995b28c8_640_640.jpg",
+          "discount": "0.5",
+          "flashPrice": "下单闪降10元，实付49元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "737432",
+          "goodsName": "LAMMA ISLAND-潮流时尚女包秋冬手提插锁定型包单肩PU复古简约贝壳包-1",
+          "crazyPrice": "49.00",
+          "stocknum": "6800",
+          "shopPrice": "499.00",
+          "img120url": "http://img.shandjj.com/fdc/20170405/img/78c40e475547c4a9304fe0e24d022252_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170405/img/78c40e475547c4a9304fe0e24d022252_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170405/img/78c40e475547c4a9304fe0e24d022252_640_640.jpg",
+          "discount": "0.7",
+          "flashPrice": "下单闪降10元，实付39元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "775649",
+          "goodsName": "Leelff 情侣款夏季休闲男女休闲鞋 新客",
+          "crazyPrice": "89.00",
+          "stocknum": "5580",
+          "shopPrice": "699.00",
+          "img120url": "http://img.shandjj.com/fdc/20170427/img/52ee2dfee8d9505c10a591c75a8823da_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170427/img/52ee2dfee8d9505c10a591c75a8823da_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170427/img/52ee2dfee8d9505c10a591c75a8823da_640_640.jpg",
+          "saleType": 4,
+          "discount": "1.2"
+        },
+        {
+          "goodsId": "861859",
+          "goodsName": "COMVIEW坦牛 青春时尚印字潮鞋 LT-1733",
+          "crazyPrice": "129.00",
+          "stocknum": "12392",
+          "shopPrice": "599.00",
+          "img120url": "http://img.shandjj.com/fdc/20170628/img/1282efb0bdcdc4345cec2c5d11b319e7_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170628/img/1282efb0bdcdc4345cec2c5d11b319e7_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170628/img/1282efb0bdcdc4345cec2c5d11b319e7_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.1"
+        },
+        {
+          "goodsId": "886599",
+          "goodsName": "【新客】希路猎人时尚休闲运动男鞋759",
+          "crazyPrice": "129.00",
+          "stocknum": "3715",
+          "shopPrice": "599.00",
+          "img120url": "http://img.shandjj.com/fdc/20170713/img/d4a21b3105f9c88efe16abacda2a5943_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170713/img/d4a21b3105f9c88efe16abacda2a5943_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170713/img/8fd06385455b734c2fe4ca5472690e6d_640_640.jpg",
+          "discount": "1.8",
+          "flashPrice": "下单闪降20元，实付109元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "943434",
+          "goodsName": "COMVIEW坦牛 秋季爆款气垫飞线运动男鞋 JD-1713",
+          "crazyPrice": "139.00",
+          "stocknum": "7405",
+          "shopPrice": "499.00",
+          "img120url": "http://img.shandjj.com/fdc/20170822/img/35993faf1deb9dff890a57225aa2adf0_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170822/img/35993faf1deb9dff890a57225aa2adf0_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170822/img/35993faf1deb9dff890a57225aa2adf0_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.7"
+        },
+        {
+          "goodsId": "956501",
+          "goodsName": "【推荐】 希路猎人男鞋秋冬潮鞋新款运动鞋男韩版百搭男士休闲鞋青少年潮流鞋子231",
+          "crazyPrice": "159.00",
+          "stocknum": "506",
+          "shopPrice": "599.00",
+          "img120url": "http://img.shandjj.com/fdc/20170830/img/4e27cbca3ad80c4baf88d18a9317005b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170830/img/4e27cbca3ad80c4baf88d18a9317005b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170830/img/4e27cbca3ad80c4baf88d18a9317005b_640_640.jpg",
+          "discount": "2.4",
+          "flashPrice": "下单闪降10元，实付149元",
+          "cutPrice": "-10",
+          "saleType": 3
+        }
+      ]
+    }
+  },
+  "girl":{
+    "result": 1,
+    "message": "",
+    "bannerRatio": "720:270",
+    "banners": [
+      {
+        "bannerId": "88",
+        "bannerImg": "http://img.shandjj.com/uploads/20171016/59e46935455db.jpg",
+        "link": "25628",
+        "type": 1
+      },
+      {
+        "bannerId": "99",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e21735919e0.jpeg",
+        "link": "25445",
+        "type": 1
+      },
+      {
+        "bannerId": "109",
+        "bannerImg": "http://img.shandjj.com/uploads/20171016/59e46870c9f06.jpg",
+        "link": "25655",
+        "type": 1
+      },
+      {
+        "bannerId": "102",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e21d169e3fc.jpg",
+        "link": "25598",
+        "type": 1
+      },
+      {
+        "bannerId": "101",
+        "bannerImg": "http://img.shandjj.com/uploads/20171016/59e469ca0d936.jpg",
+        "link": "25659",
+        "type": 1
+      }
+    ],
+    "templates": [
+      {
+        "title": "女装",
+        "image":"http://img.shandjj.com/uploads/20170919/59c0ea7ce885e.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1031",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ea8825f3a.png",
+            "type": "6",
+            "name": "卫衣",
+            "link": "1086,1087",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1032",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eaa0bf8a0.png",
+            "type": "6",
+            "name": "短袖衬衫",
+            "link": "1083,1084",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1033",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eae315314.jpg",
+            "type": "6",
+            "name": "水洗外套",
+            "link": "1088,1087,1089,1090,1091",
+            "wh": "224:177"
+          },
+          {
+            "tplItemId": "1034",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eb184643d.png",
+            "type": "6",
+            "name": "连衣裙",
+            "link": "1096,1097",
+            "wh": "235:177"
+          }
+        ]
+      },
+      {
+        "title": "女包",
+        "image":"http://img.shandjj.com/uploads/20170919/59c0eb59a875c.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1036",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eb612de92.png",
+            "type": "6",
+            "name": "女鞋",
+            "link": "1515",
+            "wh": "235:233"
+          },
+          {
+            "tplItemId": "1037",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eb685093c.png",
+            "type": "6",
+            "name": "女包",
+            "link": "1463",
+            "wh": "224:233"
+          },
+          {
+            "tplItemId": "1038",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eb7261d50.jpg",
+            "type": "6",
+            "name": "旅行箱",
+            "link": "1503",
+            "wh": "224:197"
+          },
+          {
+            "tplItemId": "1039",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eb7ab1d3a.png",
+            "type": "6",
+            "name": "女士皮带",
+            "link": "1514",
+            "wh": "235:197"
+          }
+        ]
+      },
+      {
+        "title": "美妆",
+        "image":"http://img.shandjj.com/uploads/20170919/59c0ed39894f7.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1056",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ed40b23cf.png",
+            "type": "6",
+            "name": "护肤",
+            "link": "1159",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1057",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ed480a197.png",
+            "type": "6",
+            "name": "彩妆",
+            "link": "1160",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1058",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ed4e6ccf7.jpg",
+            "type": "6",
+            "name": "护肤套装",
+            "link": "1170",
+            "wh": "224:197"
+          },
+          {
+            "tplItemId": "1059",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ed5c73410.png",
+            "type": "6",
+            "name": "清洁护理",
+            "link": "1161",
+            "wh": "235:197"
+          }
+        ]
+      }
+    ],
+    "downBrands": {
+      "title": "闪电一下，我就降价",
+      "icon": "http://static.shandjj.com/app/images/mall/max_like_brand.png",
+      "items": [
+        {
+          "brandId": "6054",
+          "brandName": "caiting彩婷",
+          "max": "500",
+          "likeNum": "488",
+          "imgUrl": "http://img.shandjj.com/fdc/20170621/img/14980250488492890.jpg"
+        },
+        {
+          "brandId": "5910",
+          "brandName": "本草珍绿",
+          "max": "500",
+          "likeNum": "484",
+          "imgUrl": "http://img.shandjj.com/fdc/20170527/img/14958761468199381.jpg"
+        },
+        {
+          "brandId": "4629",
+          "brandName": "威卡司",
+          "max": "500",
+          "likeNum": "470",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170106/20/586f6175a0544.jpg"
+        },
+        {
+          "brandId": "6178",
+          "brandName": "三只小猫",
+          "max": "500",
+          "likeNum": "444",
+          "imgUrl": "http://img.shandjj.com/fdc/20170710/img/14996580136918304.jpg"
+        },
+        {
+          "brandId": "5853",
+          "brandName": "莱玛",
+          "max": "500",
+          "likeNum": "427",
+          "imgUrl": "http://img.shandjj.com/fdc/20170519/img/14951565234014540.jpg"
+        },
+        {
+          "brandId": "5958",
+          "brandName": "阿么",
+          "max": "500",
+          "likeNum": "422",
+          "imgUrl": "http://img.shandjj.com/fdc/20170606/img/14967368155704654.png"
+        },
+        {
+          "brandId": "5405",
+          "brandName": "朵薇璐 towakle",
+          "max": "500",
+          "likeNum": "383",
+          "imgUrl": "http://img.shandjj.com/fdc/20170314/img/14894718575920109.jpg"
+        },
+        {
+          "brandId": "",
+          "brandName": "更多",
+          "max": "500",
+          "likeNum": "0",
+          "imgUrl": ""
+        }
+      ]
+    },
+    "brands": {
+      "title": "猜你喜欢",
+      "icon": "http://static.shandjj.com/app/images/mall/user_like_brand.png",
+      "items": [
+        {
+          "brandId": "1469",
+          "brandName": "New Balance新百伦",
+          "imgUrl": "http://img.shandjj.com/img/uploads/20150119/54bc726f1b82e.jpg",
+          "isDown": "1"
+        },
+        {
+          "brandId": "3905",
+          "brandName": "柯玛妮克",
+          "imgUrl": "http://img.shandjj.com/fdc/2016/20160728/27/57996d9871991.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "2197",
+          "brandName": "iwanna",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170224/45/58afe4abd374a.png",
+          "isDown": "0"
+        },
+        {
+          "brandId": "2061",
+          "brandName": "耐克nike",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170112/18/58771fc7e9233.png",
+          "isDown": "1"
+        },
+        {
+          "brandId": "3563",
+          "brandName": "CC&KK",
+          "imgUrl": "http://img.shandjj.com/fdc/2016/20160408/39/57070bba82d0b.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "4659",
+          "brandName": "初弎",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170113/09/58787d3ec72e9.jpg",
+          "isDown": "1"
+        },
+        {
+          "brandId": "4419",
+          "brandName": "A.H.C",
+          "imgUrl": "http://img.shandjj.com/fdc/2016/20161205/50/58451c3d50a5c.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "",
+          "brandName": "更多",
+          "imgUrl": "",
+          "isDown": 0
+        }
+      ]
+    },
+    "goods": {
+      "title": "推荐商品",
+      "icon": "http://static.shandjj.com/app/images/mall/user_recommand_goods.png",
+      "items": [
+        {
+          "goodsId": "983609",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-3-112",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "126",
+          "img120url": "http://img.shandjj.com/fdc/20170916/img/b06f017a3808852bf990b8c9d6caea78_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170916/img/b06f017a3808852bf990b8c9d6caea78_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170916/img/b06f017a3808852bf990b8c9d6caea78_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "967350",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 板鞋休闲鞋 102329",
+          "crazyPrice": "199",
+          "shopPrice": "369",
+          "stocknum": "758",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.3"
+        },
+        {
+          "goodsId": "967361",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 情侣板鞋 男女休闲鞋 102307",
+          "crazyPrice": "249",
+          "shopPrice": "429",
+          "stocknum": "1223",
+          "img120url": "http://img.shandjj.com/fdc/20170503/img/16ba5a39c1320fd942acf251850bfa15_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170503/img/16ba5a39c1320fd942acf251850bfa15_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170503/img/16ba5a39c1320fd942acf251850bfa15_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.8"
+        },
+        {
+          "goodsId": "525257",
+          "goodsName": "Supreme2017秋季新款男女简约BOX刺绣加绒连帽卫衣 HD034",
+          "crazyPrice": "279",
+          "shopPrice": "699",
+          "stocknum": "154",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161010/57/65b7e088085dfb8d24fb24f92e466afd_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161010/57/65b7e088085dfb8d24fb24f92e466afd_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161010/57/65b7e088085dfb8d24fb24f92e466afd_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "886343",
+          "goodsName": "Supreme2017秋季新款男女supreme柏林签名款圆领卫衣 HD043",
+          "crazyPrice": "279",
+          "shopPrice": "699",
+          "stocknum": "198",
+          "img120url": "http://img.shandjj.com/fdc/20170713/img/9830f8ca1b590e417dac358ae768a279_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170713/img/9830f8ca1b590e417dac358ae768a279_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170713/img/9830f8ca1b590e417dac358ae768a279_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "989478",
+          "goodsName": "蔻驰 COACH 奢侈品 女士沙色皮质单肩斜挎包 F11784 QB/SD",
+          "crazyPrice": "899",
+          "shopPrice": "2290",
+          "stocknum": "99",
+          "img120url": "http://img.shandjj.com/fdc/20170921/img/4fecd840e79b8c31e3a76932523243a1_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170921/img/4fecd840e79b8c31e3a76932523243a1_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170921/img/4fecd840e79b8c31e3a76932523243a1_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "997691",
+          "goodsName": "新款斯凯奇skechers透气轻便男女鞋系带休闲舒适印花跑鞋12739（3）",
+          "crazyPrice": "369",
+          "shopPrice": "529",
+          "stocknum": "983",
+          "img120url": "http://img.shandjj.com/fdc/20170927/img/b0006d1e4629df9d1160dab855286f90_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170927/img/b0006d1e4629df9d1160dab855286f90_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170927/img/b0006d1e4629df9d1160dab855286f90_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降20元，实付349元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "997689",
+          "goodsName": "新款斯凯奇skechers透气轻便男女鞋系带休闲舒适印花跑鞋12739（3）",
+          "crazyPrice": "369",
+          "shopPrice": "529",
+          "stocknum": "998",
+          "img120url": "http://img.shandjj.com/fdc/20170927/img/345e7c96a48c11c2e4862277509555a6_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170927/img/345e7c96a48c11c2e4862277509555a6_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170927/img/345e7c96a48c11c2e4862277509555a6_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降20元，实付349元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "991819",
+          "goodsName": "BOY LONDON秋季新品潮牌男女同款防晒衣 NTH1-6-103",
+          "crazyPrice": "399",
+          "shopPrice": "1780",
+          "stocknum": "18",
+          "img120url": "http://img.shandjj.com/fdc/20170923/img/119367ab35edd56f8fa39df67330b069_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170923/img/119367ab35edd56f8fa39df67330b069_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170923/img/119367ab35edd56f8fa39df67330b069_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.2"
+        },
+        {
+          "goodsId": "984302",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-3-109",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "151",
+          "img120url": "http://img.shandjj.com/fdc/20170917/img/907c0e648827e9c22ac6d981619dd3e9_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170917/img/907c0e648827e9c22ac6d981619dd3e9_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170917/img/907c0e648827e9c22ac6d981619dd3e9_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "967360",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 情侣板鞋 男女休闲鞋 101013",
+          "crazyPrice": "279",
+          "shopPrice": "429",
+          "stocknum": "1349",
+          "img120url": "http://img.shandjj.com/fdc/20170503/img/eb3922d59b7bc738ba858d09ba9e2dcd_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170503/img/eb3922d59b7bc738ba858d09ba9e2dcd_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170503/img/eb3922d59b7bc738ba858d09ba9e2dcd_640_640.jpg",
+          "saleType": 4,
+          "discount": "6.5"
+        },
+        {
+          "goodsId": "878003",
+          "goodsName": "whoo/后拱辰享乳液 气韵生滋养乳提亮肤色110ml",
+          "crazyPrice": "309",
+          "shopPrice": "428",
+          "stocknum": "9991",
+          "img120url": "http://img.shandjj.com/fdc/20170706/img/e4c8e0ac1d98d4e8d2f9c55f1e98923b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170706/img/e4c8e0ac1d98d4e8d2f9c55f1e98923b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170706/img/e4c8e0ac1d98d4e8d2f9c55f1e98923b_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降30元，实付279元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "886473",
+          "goodsName": "（99选2）欧珀莱 时光锁紧致塑颜系列三件套",
+          "crazyPrice": "89",
+          "shopPrice": "150",
+          "stocknum": "171",
+          "img120url": "http://img.shandjj.com/fdc/20170713/img/7fec906a62c4c1a30fb43190b3c2aed5_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170713/img/7fec906a62c4c1a30fb43190b3c2aed5_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170713/img/7fec906a62c4c1a30fb43190b3c2aed5_640_640.jpg",
+          "discount": "4.6",
+          "flashPrice": "下单闪降20元，实付69元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "878009",
+          "goodsName": " whoo/后 拱辰享爽肤水气韵生滋养液150ml",
+          "crazyPrice": "309",
+          "shopPrice": "428",
+          "stocknum": "995",
+          "img120url": "http://img.shandjj.com/fdc/20170706/img/ea11752eba8e9cb692b52936e22242fc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170706/img/ea11752eba8e9cb692b52936e22242fc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170706/img/ea11752eba8e9cb692b52936e22242fc_640_640.jpg",
+          "discount": "6.5",
+          "flashPrice": "下单闪降30元，实付279元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "920747",
+          "goodsName": "梵柯施宽松短袖九分裤两件套145",
+          "crazyPrice": "89",
+          "shopPrice": "399",
+          "stocknum": "384",
+          "img120url": "http://img.shandjj.com/fdc/20170804/img/87514b901b06d64636ae5fe05333f1f8_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170804/img/87514b901b06d64636ae5fe05333f1f8_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170804/img/87514b901b06d64636ae5fe05333f1f8_640_640.jpg",
+          "discount": "1.9",
+          "flashPrice": "下单闪降10元，实付79元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "920725",
+          "goodsName": "梵柯施棒球服夹克两件套8797",
+          "crazyPrice": "109",
+          "shopPrice": "599",
+          "stocknum": "127",
+          "img120url": "http://img.shandjj.com/fdc/20170804/img/270e7167da416cfe4b0cad5ec7c80ae8_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170804/img/270e7167da416cfe4b0cad5ec7c80ae8_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170804/img/e07d8f60e0e9fb6de1fd9f9df02accca_640_640.jpg",
+          "discount": "1.6",
+          "flashPrice": "下单闪降10元，实付99元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "391310",
+          "goodsName": "哥斯兰顿 四季男女款跑步运动鞋 JS5058",
+          "crazyPrice": "109",
+          "shopPrice": "399",
+          "stocknum": "4813",
+          "img120url": "http://img.shandjj.com/fdc/20170710/img/24c47fa1897c7ba6d68a6ea2c51f0ccb_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170710/img/2632c64cc5431c07e564338917f1e714_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170710/img/2632c64cc5431c07e564338917f1e714_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.7"
+        },
+        {
+          "goodsId": "374560",
+          "goodsName": "哥斯兰顿  春夏情侣超轻跑步鞋 透气网面减震跑鞋休闲百搭户外鞋 YD2067",
+          "crazyPrice": "199",
+          "shopPrice": "498",
+          "stocknum": "2195",
+          "img120url": "http://img.shandjj.com/fdc/20170710/img/5c0eeec5e710078c6238c70631d50b91_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170710/img/5c0eeec5e710078c6238c70631d50b91_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170710/img/5c0eeec5e710078c6238c70631d50b91_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.9"
+        },
+        {
+          "goodsId": "927001",
+          "goodsName": "日本AKAW焖烧锅520ml 不锈钢保温桶 粉蓝色6937317201346",
+          "crazyPrice": "129",
+          "shopPrice": "199",
+          "stocknum": "994",
+          "img120url": "http://img.shandjj.com/fdc/20170828/img/e0c63dd42284f47b741ab1f86e30dfb6_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170828/img/e0c63dd42284f47b741ab1f86e30dfb6_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170828/img/e0c63dd42284f47b741ab1f86e30dfb6_640_640.jpg",
+          "discount": "5.4",
+          "flashPrice": "下单闪降20元，实付109元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "973632",
+          "goodsName": "Puma 彪马 男女情侣款厚底松糕鞋板鞋364462-01",
+          "crazyPrice": "439",
+          "shopPrice": "798",
+          "stocknum": "449",
+          "img120url": "http://img.shandjj.com/fdc/20170912/img/a29bf19fca50a37c8919ebf239ede79e_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170912/img/a29bf19fca50a37c8919ebf239ede79e_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170912/img/a29bf19fca50a37c8919ebf239ede79e_640_640.jpg",
+          "discount": "5.1",
+          "flashPrice": "下单闪降30元，实付409元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "711593",
+          "goodsName": "Puma 彪马 女士低帮蝴蝶结百搭板鞋小白鞋白色运动休闲鞋363073-02",
+          "crazyPrice": "439",
+          "shopPrice": "1099",
+          "stocknum": "347",
+          "img120url": "http://img.shandjj.com/fdc/20170319/img/db12c78204a31eba200e387ee21e96e1_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170319/img/db12c78204a31eba200e387ee21e96e1_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170319/img/db12c78204a31eba200e387ee21e96e1_640_640.jpg",
+          "discount": "3.7",
+          "flashPrice": "下单闪降30元，实付409元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "814036",
+          "goodsName": "BURBERRY/巴宝莉 正品手表女士腕表英伦格纹皮质圆盘手表 石英男表 BU1399/BU1399",
+          "crazyPrice": "619",
+          "shopPrice": "2280",
+          "stocknum": "40",
+          "img120url": "http://img.shandjj.com/fdc/20170714/img/fd81e614420eb42686b8ec9022e13de0_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170714/img/fd81e614420eb42686b8ec9022e13de0_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170714/img/fd81e614420eb42686b8ec9022e13de0_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.7"
+        },
+        {
+          "goodsId": "707804",
+          "goodsName": "（99选2）SK-II护肤精华露10ml SK-II小样进来可选",
+          "crazyPrice": "79",
+          "shopPrice": "100",
+          "stocknum": "2703",
+          "img120url": "http://img.shandjj.com/fdc/20170317/img/f07e7fa71bb7f9c27c2786b7b6af5836_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170317/img/f07e7fa71bb7f9c27c2786b7b6af5836_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170317/img/f07e7fa71bb7f9c27c2786b7b6af5836_640_640.jpg",
+          "discount": "6.9",
+          "flashPrice": "下单闪降10元，实付69元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "709078",
+          "goodsName": "Adidas阿迪达斯 TUBULAR小椰子情侣跑步鞋BB8824",
+          "crazyPrice": "519",
+          "shopPrice": "799",
+          "stocknum": "278",
+          "img120url": "http://img.shandjj.com/fdc/20170317/img/9ea09dc66a6eb56fe652f0920c1b17d4_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170317/img/9ea09dc66a6eb56fe652f0920c1b17d4_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170317/img/9ea09dc66a6eb56fe652f0920c1b17d4_640_640.jpg",
+          "discount": "6.1",
+          "flashPrice": "下单闪降30元，实付489元",
+          "cutPrice": "-30",
+          "saleType": 3
+        },
+        {
+          "goodsId": "709167",
+          "goodsName": "Nike耐克 Air Huarache情侣跑鞋819685-001",
+          "crazyPrice": "499",
+          "shopPrice": "849",
+          "stocknum": "189",
+          "img120url": "http://img.shandjj.com/fdc/20170317/img/1ba1ef81d8d49213ef05dbd78bb1950e_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170317/img/1ba1ef81d8d49213ef05dbd78bb1950e_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170317/img/1ba1ef81d8d49213ef05dbd78bb1950e_640_640.jpg",
+          "discount": "5.6",
+          "flashPrice": "下单闪降20元，实付479元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "978798",
+          "goodsName": "梵柯施秋冬季加绒带帽卫衣6505",
+          "crazyPrice": "79",
+          "shopPrice": "299",
+          "stocknum": "613",
+          "img120url": "http://img.shandjj.com/fdc/20170925/img/47652d6da582a5cc95f783105935dbfe_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170925/img/47652d6da582a5cc95f783105935dbfe_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170925/img/47652d6da582a5cc95f783105935dbfe_640_640.jpg",
+          "discount": "2.3",
+          "flashPrice": "下单闪降10元，实付69元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "472675",
+          "goodsName": "【日本进口】蝶翠诗DHC 橄榄保湿护唇膏天然植物润唇1.5g   rbg",
+          "crazyPrice": "64",
+          "shopPrice": "68",
+          "stocknum": "649",
+          "img120url": "http://img.shandjj.com/fdc/2016/20160816/07/4ef6bd56b2bdc7619357c4683c33c1cd_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20160816/07/4ef6bd56b2bdc7619357c4683c33c1cd_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20160816/07/4ef6bd56b2bdc7619357c4683c33c1cd_640_640.jpg",
+          "discount": "7.7",
+          "flashPrice": "下单闪降11元，实付53元",
+          "cutPrice": "-11",
+          "saleType": 3
+        },
+        {
+          "goodsId": "990828",
+          "goodsName": "【日本进口】秋冬口罩pitta mask防尘防花粉黑款口罩3枚装透气男女 rbg",
+          "crazyPrice": "59",
+          "shopPrice": "86",
+          "stocknum": "235",
+          "img120url": "http://img.shandjj.com/fdc/20170922/img/962de7285de1eb07db0cafe87a941ba7_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170922/img/962de7285de1eb07db0cafe87a941ba7_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170922/img/962de7285de1eb07db0cafe87a941ba7_640_640.jpg",
+          "discount": "5.2",
+          "flashPrice": "下单闪降14元，实付45元",
+          "cutPrice": "-14",
+          "saleType": 3
+        },
+        {
+          "goodsId": "926314",
+          "goodsName": "Nike耐克 Blazer 女经典休闲板鞋 488060-089",
+          "crazyPrice": "399",
+          "shopPrice": "799",
+          "stocknum": "119",
+          "img120url": "http://img.shandjj.com/fdc/20170912/img/7068599f80514e0a23b2828489326c26_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170912/img/7068599f80514e0a23b2828489326c26_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170912/img/7068599f80514e0a23b2828489326c26_640_640.jpg",
+          "discount": "4.6",
+          "flashPrice": "下单闪降30元，实付369元",
+          "cutPrice": "-30",
+          "saleType": 3
+        },
+        {
+          "goodsId": "891782",
+          "goodsName": "COMME des GARCONS 川久保玲 男女款潮流长袖T恤R1Q343",
+          "crazyPrice": "259",
+          "shopPrice": "699",
+          "stocknum": "38",
+          "img120url": "http://img.shandjj.com/fdc/20170717/img/4a94a614965534a65547629567c6b1cb_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170717/img/4a94a614965534a65547629567c6b1cb_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170717/img/4a94a614965534a65547629567c6b1cb_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.7"
+        },
+        {
+          "goodsId": "891813",
+          "goodsName": "COMME des GARCONS 川久保玲 男女款潮牌长袖T恤R1Y589",
+          "crazyPrice": "259",
+          "shopPrice": "699",
+          "stocknum": "58",
+          "img120url": "http://img.shandjj.com/fdc/20170717/img/3d9409824039290e531fae252fccce48_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170717/img/3d9409824039290e531fae252fccce48_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170717/img/3d9409824039290e531fae252fccce48_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.7"
+        },
+        {
+          "goodsId": "804006",
+          "goodsName": "New Balance/NB 997.5系列 男女款复古鞋跑步休闲鞋 ML997HAD",
+          "crazyPrice": "579",
+          "shopPrice": "999",
+          "stocknum": "594",
+          "img120url": "http://img.shandjj.com/fdc/20170516/img/5fe8d7e327c32c68ce7ec7dc589042fe_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170516/img/5fe8d7e327c32c68ce7ec7dc589042fe_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170516/img/5fe8d7e327c32c68ce7ec7dc589042fe_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.7"
+        },
+        {
+          "goodsId": "974019",
+          "goodsName": "达芙妮旗下Aee/爱意优雅女鞋甜美水钻丝绒粗高跟女单鞋1613404034",
+          "crazyPrice": "109",
+          "shopPrice": "599",
+          "stocknum": "593",
+          "img120url": "http://img.shandjj.com/fdc/20170912/img/3fb4936f535adc24192577ed18a91056_120_120.png",
+          "img320url": "http://img.shandjj.com/fdc/20170912/img/3fb4936f535adc24192577ed18a91056_320_320.png",
+          "img640url": "http://img.shandjj.com/fdc/20170912/img/3fb4936f535adc24192577ed18a91056_640_640.png",
+          "saleType": 4,
+          "discount": "1.8"
+        },
+        {
+          "goodsId": "974060",
+          "goodsName": "达芙妮旗下AEE/爱意秋冬新款水钻平底单鞋足色1613404024",
+          "crazyPrice": "109",
+          "shopPrice": "599",
+          "stocknum": "308",
+          "img120url": "http://img.shandjj.com/fdc/20170912/img/831975b780f5b6ac6aa7136b08c543ab_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170912/img/831975b780f5b6ac6aa7136b08c543ab_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170912/img/831975b780f5b6ac6aa7136b08c543ab_640_640.jpg",
+          "saleType": 4,
+          "discount": "1.8"
+        },
+        {
+          "goodsId": "974085",
+          "goodsName": "达芙妮旗下Aee/爱意羊反绒水钻扣尖头细跟单鞋高跟女鞋1613404007",
+          "crazyPrice": "109",
+          "shopPrice": "599",
+          "stocknum": "233",
+          "img120url": "http://img.shandjj.com/fdc/20170912/img/58fb6dc7d081c348e961a6af1c08ac28_120_120.png",
+          "img320url": "http://img.shandjj.com/fdc/20170912/img/58fb6dc7d081c348e961a6af1c08ac28_320_320.png",
+          "img640url": "http://img.shandjj.com/fdc/20170912/img/58fb6dc7d081c348e961a6af1c08ac28_640_640.png",
+          "saleType": 4,
+          "discount": "1.8"
+        },
+        {
+          "goodsId": "970420",
+          "goodsName": "欧希韵 复古气质显瘦a字v领中长款连衣裙G542-B-1390",
+          "crazyPrice": "109",
+          "shopPrice": "259",
+          "stocknum": "743",
+          "img120url": "http://img.shandjj.com/fdc/20170910/img/6a6fb1cbcf20d8c4938c41c327a76f70_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170910/img/6a6fb1cbcf20d8c4938c41c327a76f70_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170910/img/6a6fb1cbcf20d8c4938c41c327a76f70_640_640.jpg",
+          "discount": "3.8",
+          "flashPrice": "下单闪降10元，实付99元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "927948",
+          "goodsName": "欧希韵 韩版学生宽松拼接套头bf薄款假两件圆领卫衣B357-G -8208",
+          "crazyPrice": "109",
+          "shopPrice": "239",
+          "stocknum": "961",
+          "img120url": "http://img.shandjj.com/fdc/20170810/img/0d2007ead2e297668493f012ea2e534f_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170810/img/0d2007ead2e297668493f012ea2e534f_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170810/img/0d2007ead2e297668493f012ea2e534f_640_640.jpg",
+          "discount": "4.1",
+          "flashPrice": "下单闪降10元，实付99元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "879349",
+          "goodsName": "欧希韵 两件套潮牌侧边织带休闲裤字母卫衣时尚运动服  NC10-A-9026",
+          "crazyPrice": "129",
+          "shopPrice": "279",
+          "stocknum": "622",
+          "img120url": "http://img.shandjj.com/fdc/20170707/img/ccc5ccebd305fd7f787d8b2c2de4e2e7_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170707/img/ccc5ccebd305fd7f787d8b2c2de4e2e7_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170707/img/ccc5ccebd305fd7f787d8b2c2de4e2e7_640_640.jpg",
+          "discount": "4.2",
+          "flashPrice": "下单闪降10元，实付119元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "531961",
+          "goodsName": "asics/亚瑟士 男女休闲跑步鞋H6A2Y-1345",
+          "crazyPrice": "399",
+          "shopPrice": "900",
+          "stocknum": "256",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161014/27/9fb97f37cbb28cd86734900ff333cdda_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161014/27/9fb97f37cbb28cd86734900ff333cdda_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161014/27/9fb97f37cbb28cd86734900ff333cdda_640_640.jpg",
+          "discount": "4.2",
+          "flashPrice": "下单闪降20元，实付379元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "484681",
+          "goodsName": "Onitsuka Tiger/鬼冢虎 男女鞋 MEXICO 66 HL202-9001",
+          "crazyPrice": "449",
+          "shopPrice": "780",
+          "stocknum": "356",
+          "img120url": "http://img.shandjj.com/fdc/20170605/img/e8b19a74ca73bd1d250153fcb99dbb24_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170605/img/e8b19a74ca73bd1d250153fcb99dbb24_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170605/img/e8b19a74ca73bd1d250153fcb99dbb24_640_640.jpg",
+          "discount": "5.3",
+          "flashPrice": "下单闪降30元，实付419元",
+          "cutPrice": "-30",
+          "saleType": 3
+        },
+        {
+          "goodsId": "740107",
+          "goodsName": "索可尼2017新款运动鞋休闲鞋跑步鞋男士E706",
+          "crazyPrice": "129",
+          "shopPrice": "399",
+          "stocknum": "148",
+          "img120url": "http://img.shandjj.com/fdc/20170406/img/f062b3a517d8d89405b4123d85d88b7a_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170406/img/f062b3a517d8d89405b4123d85d88b7a_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170406/img/f062b3a517d8d89405b4123d85d88b7a_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.2"
+        },
+        {
+          "goodsId": "862829",
+          "goodsName": "索可尼2017夏情侣款户外鞋E135",
+          "crazyPrice": "129",
+          "shopPrice": "399",
+          "stocknum": "594",
+          "img120url": "http://img.shandjj.com/fdc/20170628/img/1061dc4f64f9f0b3ee2d808ac21fb4f9_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170628/img/1061dc4f64f9f0b3ee2d808ac21fb4f9_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170628/img/1061dc4f64f9f0b3ee2d808ac21fb4f9_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.2"
+        },
+        {
+          "goodsId": "866546",
+          "goodsName": "纯棉修身长袖牛仔衬衫女7163724",
+          "crazyPrice": "115",
+          "shopPrice": "699",
+          "stocknum": "111",
+          "img120url": "http://img.shandjj.com/fdc/20170629/img/4b99a2bc9e1133285cdf21587b40c35b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170629/img/4b99a2bc9e1133285cdf21587b40c35b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170629/img/4b99a2bc9e1133285cdf21587b40c35b_640_640.jpg",
+          "discount": "1.5",
+          "flashPrice": "下单闪降10元，实付105元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "844455",
+          "goodsName": "夏装新款女装透气薄款牛仔长袖衬衫7163704",
+          "crazyPrice": "105",
+          "shopPrice": "699",
+          "stocknum": "75",
+          "img120url": "http://img.shandjj.com/fdc/20170613/img/2e4684130edb332a43f46ddb95d35c59_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170613/img/f58713ed13e5b85aa70e122bed3a8371_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170613/img/f58713ed13e5b85aa70e122bed3a8371_640_640.jpg",
+          "discount": "1.3",
+          "flashPrice": "下单闪降10元，实付95元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "927085",
+          "goodsName": "刺绣长袖套头卫衣女9173909",
+          "crazyPrice": "135",
+          "shopPrice": "419",
+          "stocknum": "21",
+          "img120url": "http://img.shandjj.com/fdc/20170809/img/b3fe96378a5b34e4eab9cc742045fcc7_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170809/img/b3fe96378a5b34e4eab9cc742045fcc7_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170809/img/b3fe96378a5b34e4eab9cc742045fcc7_640_640.jpg",
+          "discount": "2.9",
+          "flashPrice": "下单闪降10元，实付125元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "969821",
+          "goodsName": "粉色长袖棒球服外套女8173811",
+          "crazyPrice": "199",
+          "shopPrice": "599",
+          "stocknum": "42",
+          "img120url": "http://img.shandjj.com/fdc/20170909/img/9322652d25c64778b819d6378447510d_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170909/img/9322652d25c64778b819d6378447510d_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170909/img/9322652d25c64778b819d6378447510d_640_640.jpg",
+          "discount": "3.1",
+          "flashPrice": "下单闪降10元，实付189元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "914547",
+          "goodsName": "FILA斐乐新款休闲女士长袖运动外套防晒服B1778白色",
+          "crazyPrice": "289",
+          "shopPrice": "969",
+          "stocknum": "81",
+          "img120url": "http://img.shandjj.com/fdc/20170731/img/8e28c9d188f1b856d8c89d077125d54b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170731/img/60fbe670c6e636d5f71fdf4a75a72ed4_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170731/img/60fbe670c6e636d5f71fdf4a75a72ed4_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.9"
+        },
+        {
+          "goodsId": "859447",
+          "goodsName": "FILA斐乐新款女士圆领休闲运动T恤H710白色",
+          "crazyPrice": "189",
+          "shopPrice": "618",
+          "stocknum": "217",
+          "img120url": "http://img.shandjj.com/fdc/20170626/img/14dc0abd56170dd3832269b99276a67b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170626/img/14dc0abd56170dd3832269b99276a67b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170626/img/14dc0abd56170dd3832269b99276a67b_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        }
+      ]
+    }
+  },
+  "boy":{
+    "result": 1,
+    "message": "",
+    "bannerRatio": "720:270",
+    "banners": [
+      {
+        "bannerId": "97",
+        "bannerImg": "http://img.shandjj.com/uploads/20171016/59e40d5b345d1.jpg",
+        "link": "25464",
+        "type": 1
+      },
+      {
+        "bannerId": "104",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e16208e6178.jpeg",
+        "link": "25563",
+        "type": 1
+      },
+      {
+        "bannerId": "108",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e21cc2ef887.jpg",
+        "link": "25586",
+        "type": 1
+      },
+      {
+        "bannerId": "111",
+        "bannerImg": "http://img.shandjj.com/uploads/20171016/59e4684f55766.jpg",
+        "link": "25576",
+        "type": 1
+      },
+      {
+        "bannerId": "93",
+        "bannerImg": "http://img.shandjj.com/uploads/20171016/59e468e39dba5.jpg",
+        "link": "25415",
+        "type": 1
+      },
+      {
+        "bannerId": "98",
+        "bannerImg": "http://img.shandjj.com/uploads/20171014/59e214f265a3e.jpeg",
+        "link": "25533",
+        "type": 1
+      }
+    ],
+    "templates": [
+      {
+        "title": "男装",
+        "image":"http://img.shandjj.com/uploads/20170919/59c0ebb40d300.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1041",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ebbb04ab6.png",
+            "type": "6",
+            "name": "卫衣",
+            "link": "1061",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1042",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ebe683eb4.png",
+            "type": "6",
+            "name": "水洗外套",
+            "link": "1063,1062,1064,1065,1069",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1043",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ec037168c.jpg",
+            "type": "6",
+            "name": "男士内裤",
+            "link": "1107,1112,1111,1108,1110,1109",
+            "wh": "224:177"
+          },
+          {
+            "tplItemId": "1044",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ec7c27076.png",
+            "type": "6",
+            "name": "牛仔长裤",
+            "link": "1075,1077,1076,1072",
+            "wh": "235:177"
+          }
+        ]
+      },
+      {
+        "title": "运动",
+        "image":"http://img.shandjj.com/uploads/20170919/59c0ec9e2605e.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1046",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eca5f2695.png",
+            "type": "6",
+            "name": "鞋",
+            "link": "154",
+            "wh": "235:253"
+          },
+          {
+            "tplItemId": "1047",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ecaea3aa0.png",
+            "type": "6",
+            "name": "上装",
+            "link": "39",
+            "wh": "224:253"
+          },
+          {
+            "tplItemId": "1048",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ecb6d2ba0.jpg",
+            "type": "6",
+            "name": "运动器材",
+            "link": "1230",
+            "wh": "224:197"
+          },
+          {
+            "tplItemId": "1049",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ecbe03617.png",
+            "type": "6",
+            "name": "防晒服",
+            "link": "588,146,619,827,1171",
+            "wh": "235:197"
+          }
+        ]
+      },
+      {
+        "title": "鞋包",
+        "image":"http://img.shandjj.com/uploads/20170919/59c0ecd37381c.png",
+        "tType": 5,
+        "item": [
+          {
+            "tplItemId": "1051",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ecdabe363.png",
+            "type": "6",
+            "name": "男鞋",
+            "link": "1424",
+            "wh": "235:233"
+          },
+          {
+            "tplItemId": "1052",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ece15e8c6.png",
+            "type": "6",
+            "name": "男包",
+            "link": "1451",
+            "wh": "224:233"
+          },
+          {
+            "tplItemId": "1053",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0eceb91d25.jpg",
+            "type": "6",
+            "name": "旅行箱",
+            "link": "1503",
+            "wh": "224:197"
+          },
+          {
+            "tplItemId": "1054",
+            "imgUrl": "http://img.shandjj.com/uploads/20170919/59c0ecf2649df.png",
+            "type": "6",
+            "name": "男士皮带",
+            "link": "1513",
+            "wh": "235:197"
+          }
+        ]
+      }
+    ],
+    "downBrands": {
+      "title": "闪电一下，我就降价",
+      "icon": "http://static.shandjj.com/app/images/mall/max_like_brand.png",
+      "items": [
+        {
+          "brandId": "6054",
+          "brandName": "caiting彩婷",
+          "max": "500",
+          "likeNum": "488",
+          "imgUrl": "http://img.shandjj.com/fdc/20170621/img/14980250488492890.jpg"
+        },
+        {
+          "brandId": "5910",
+          "brandName": "本草珍绿",
+          "max": "500",
+          "likeNum": "484",
+          "imgUrl": "http://img.shandjj.com/fdc/20170527/img/14958761468199381.jpg"
+        },
+        {
+          "brandId": "4629",
+          "brandName": "威卡司",
+          "max": "500",
+          "likeNum": "470",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170106/20/586f6175a0544.jpg"
+        },
+        {
+          "brandId": "6178",
+          "brandName": "三只小猫",
+          "max": "500",
+          "likeNum": "444",
+          "imgUrl": "http://img.shandjj.com/fdc/20170710/img/14996580136918304.jpg"
+        },
+        {
+          "brandId": "5853",
+          "brandName": "莱玛",
+          "max": "500",
+          "likeNum": "427",
+          "imgUrl": "http://img.shandjj.com/fdc/20170519/img/14951565234014540.jpg"
+        },
+        {
+          "brandId": "5958",
+          "brandName": "阿么",
+          "max": "500",
+          "likeNum": "422",
+          "imgUrl": "http://img.shandjj.com/fdc/20170606/img/14967368155704654.png"
+        },
+        {
+          "brandId": "5405",
+          "brandName": "朵薇璐 towakle",
+          "max": "500",
+          "likeNum": "383",
+          "imgUrl": "http://img.shandjj.com/fdc/20170314/img/14894718575920109.jpg"
+        },
+        {
+          "brandId": "",
+          "brandName": "更多",
+          "max": "500",
+          "likeNum": "0",
+          "imgUrl": ""
+        }
+      ]
+    },
+    "brands": {
+      "title": "猜你喜欢",
+      "icon": "http://static.shandjj.com/app/images/mall/user_like_brand.png",
+      "items": [
+        {
+          "brandId": "1256",
+          "brandName": "KENZO",
+          "imgUrl": "http://img.shandjj.com/img/uploads/20150706/5599eb55421a0.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "1865",
+          "brandName": "Puma彪马",
+          "imgUrl": "http://img.shandjj.com/img/uploads/20150120/54bdb1731d938.jpg",
+          "isDown": "1"
+        },
+        {
+          "brandId": "1711",
+          "brandName": "Abercrombie&Fitch",
+          "imgUrl": "http://img.shandjj.com/fdc/20170717/img/15002734323956895.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "3683",
+          "brandName": "Philipp Plein",
+          "imgUrl": "http://img.shandjj.com/fdc/2016/20160518/17/573c25114ef6e.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "4028",
+          "brandName": "HEIPAR嘿帕",
+          "imgUrl": "http://img.shandjj.com/fdc/20170418/img/14925304667576510.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "3646",
+          "brandName": "RALPH LAUREN 拉夫劳伦",
+          "imgUrl": "http://img.shandjj.com/fdc/2016/20160429/51/572320791c96a.jpg",
+          "isDown": "0"
+        },
+        {
+          "brandId": "994",
+          "brandName": "COACH",
+          "imgUrl": "http://img.shandjj.com/fdc/2017/20170221/47/58abf0813ccca.png",
+          "isDown": "0"
+        },
+        {
+          "brandId": "",
+          "brandName": "更多",
+          "imgUrl": "",
+          "isDown": 0
+        }
+      ]
+    },
+    "goods": {
+      "title": "推荐商品",
+      "icon": "http://static.shandjj.com/app/images/mall/user_recommand_goods.png",
+      "items": [
+        {
+          "goodsId": "983657",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-1-105",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "82",
+          "img120url": "http://img.shandjj.com/fdc/20170916/img/251b25686c965ebfde5c3f9ade8730ea_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170916/img/251b25686c965ebfde5c3f9ade8730ea_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170916/img/e592b72157344f803348a5113c2129a7_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "967358",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 男女板鞋 情侣高帮休闲鞋 101009",
+          "crazyPrice": "249",
+          "shopPrice": "429",
+          "stocknum": "1312",
+          "img120url": "http://img.shandjj.com/fdc/20170503/img/886459e1ac3e494f3f9148e37af5ed5d_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170503/img/886459e1ac3e494f3f9148e37af5ed5d_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170503/img/886459e1ac3e494f3f9148e37af5ed5d_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.8"
+        },
+        {
+          "goodsId": "967350",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 板鞋休闲鞋 102329",
+          "crazyPrice": "199",
+          "shopPrice": "369",
+          "stocknum": "758",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161016/07/710822159888737b142fdf9e8fc2b226_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.3"
+        },
+        {
+          "goodsId": "943124",
+          "goodsName": "Philipp Plein2017秋冬男士修身潮牌骷髅头长袖T恤PP18643",
+          "crazyPrice": "369",
+          "shopPrice": "2499",
+          "stocknum": "68",
+          "img120url": "http://img.shandjj.com/fdc/20170821/img/49c4ca1700f66a6f8a1829d57be1f971_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170821/img/49c4ca1700f66a6f8a1829d57be1f971_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170821/img/49c4ca1700f66a6f8a1829d57be1f971_640_640.jpg",
+          "discount": "1.3",
+          "flashPrice": "下单闪降20元，实付349元",
+          "cutPrice": "-20",
+          "saleType": 4
+        },
+        {
+          "goodsId": "944308",
+          "goodsName": "Philipp Plein2017秋款男士修身圆领骷髅头潮牌夹克PP 18643",
+          "crazyPrice": "379",
+          "shopPrice": "2699",
+          "stocknum": "241",
+          "img120url": "http://img.shandjj.com/fdc/20170822/img/2ddb3656ab1bc3ff0ddb171f298fbfdc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170822/img/2ddb3656ab1bc3ff0ddb171f298fbfdc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170822/img/2ddb3656ab1bc3ff0ddb171f298fbfdc_640_640.jpg",
+          "discount": "1.3",
+          "flashPrice": "下单闪降20元，实付359元",
+          "cutPrice": "-20",
+          "saleType": 4
+        },
+        {
+          "goodsId": "918183",
+          "goodsName": "Supreme2017秋季新款男拼色字母隐藏口袋卫衣 HD066",
+          "crazyPrice": "269",
+          "shopPrice": "699",
+          "stocknum": "29",
+          "img120url": "http://img.shandjj.com/fdc/20170802/img/42fc8734a6dcb6f7602858fb54dbff89_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170802/img/42fc8734a6dcb6f7602858fb54dbff89_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170802/img/42fc8734a6dcb6f7602858fb54dbff89_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.8"
+        },
+        {
+          "goodsId": "951376",
+          "goodsName": "Supreme2017秋季新款男经典刺绣镂空LOGO卫衣 HD089",
+          "crazyPrice": "269",
+          "shopPrice": "699",
+          "stocknum": "131",
+          "img120url": "http://img.shandjj.com/fdc/20170827/img/62252ef3540998710b36d3a157b081fc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170827/img/62252ef3540998710b36d3a157b081fc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170827/img/62252ef3540998710b36d3a157b081fc_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.8"
+        },
+        {
+          "goodsId": "958668",
+          "goodsName": "COACH蔻驰 男士两折短款钱包钱夹卡包 74736 黑色",
+          "crazyPrice": "369",
+          "shopPrice": "1090",
+          "stocknum": "96",
+          "img120url": "http://img.shandjj.com/fdc/20170730/img/0c0d011e21e8f71360ef9aa74ea28680_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170730/img/0c0d011e21e8f71360ef9aa74ea28680_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170730/img/bebfccc5cab377915e4f429bbe421f23_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.3"
+        },
+        {
+          "goodsId": "958662",
+          "goodsName": "COACH/蔻驰 PVC 男士短款钱包钱夹 74991黑色",
+          "crazyPrice": "359",
+          "shopPrice": "1090",
+          "stocknum": "94",
+          "img120url": "http://img.shandjj.com/fdc/20170730/img/9a0de8503c9ecc04e1d467e6f6c025b5_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170730/img/9a0de8503c9ecc04e1d467e6f6c025b5_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170730/img/9a0de8503c9ecc04e1d467e6f6c025b5_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.2"
+        },
+        {
+          "goodsId": "764120",
+          "goodsName": "原装正品ZIPPO打火机 205磨砂新标志 免费刻字",
+          "crazyPrice": "139",
+          "shopPrice": "358",
+          "stocknum": "127",
+          "img120url": "http://img.shandjj.com/fdc/20170420/img/d1ef586451658cc05be73d4d2fdd1a12_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170420/img/d1ef586451658cc05be73d4d2fdd1a12_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170420/img/5d8c440b530601d309cf4fcd5fd95371_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.8"
+        },
+        {
+          "goodsId": "991807",
+          "goodsName": "BOY LONDON秋季新品潮牌男女同款防晒衣 NTH1-6-102",
+          "crazyPrice": "399",
+          "shopPrice": "1780",
+          "stocknum": "25",
+          "img120url": "http://img.shandjj.com/fdc/20170923/img/cf32c0fad3e0742a7e9a0dc3188d4396_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170923/img/cf32c0fad3e0742a7e9a0dc3188d4396_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170923/img/cf32c0fad3e0742a7e9a0dc3188d4396_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.2"
+        },
+        {
+          "goodsId": "983450",
+          "goodsName": "BOY LONDON韩国秋季新款套头衫男女同款长袖卫衣纯棉  NTA1-2-104",
+          "crazyPrice": "319",
+          "shopPrice": "1050",
+          "stocknum": "187",
+          "img120url": "http://img.shandjj.com/fdc/20170916/img/90bd0e822f1de5d9807dc71180eb88b3_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170916/img/90bd0e822f1de5d9807dc71180eb88b3_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170916/img/90bd0e822f1de5d9807dc71180eb88b3_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "967357",
+          "goodsName": "【CON】匡威 CONVERSE 经典款 男女板鞋 情侣休闲鞋 101007",
+          "crazyPrice": "199",
+          "shopPrice": "369",
+          "stocknum": "1210",
+          "img120url": "http://img.shandjj.com/fdc/20170503/img/ca2e780c6a7dbe659f5463c4d01bd07b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170503/img/ca2e780c6a7dbe659f5463c4d01bd07b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170503/img/ca2e780c6a7dbe659f5463c4d01bd07b_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.3"
+        },
+        {
+          "goodsId": "85345",
+          "goodsName": "原装正品zippo打火机 礼盒套装（礼盒+礼袋+小油+火石）礼盒颜色随机发",
+          "crazyPrice": "69",
+          "shopPrice": "128",
+          "stocknum": "1481",
+          "img120url": "http://img.shandjj.com/fdc/20170828/img/20a2057a531aa9f9311b09a5e5d02302_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170828/img/20a2057a531aa9f9311b09a5e5d02302_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170828/img/20a2057a531aa9f9311b09a5e5d02302_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.3"
+        },
+        {
+          "goodsId": "997499",
+          "goodsName": "Skechers斯凯奇D’lites明星情侣熊猫鞋休闲厚底潮流运动鞋99999720（3）",
+          "crazyPrice": "379",
+          "shopPrice": "599",
+          "stocknum": "770",
+          "img120url": "http://img.shandjj.com/fdc/20170926/img/56b4e7b2491938e8a8bc0a510ec081c5_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170926/img/56b4e7b2491938e8a8bc0a510ec081c5_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170926/img/56b4e7b2491938e8a8bc0a510ec081c5_640_640.jpg",
+          "discount": "5.9",
+          "flashPrice": "下单闪降20元，实付359元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "997531",
+          "goodsName": "春季Skechers斯凯奇情人节限量运动鞋 D'lites情侣熊猫鞋99999693（3）",
+          "crazyPrice": "399",
+          "shopPrice": "649",
+          "stocknum": "880",
+          "img120url": "http://img.shandjj.com/fdc/20170926/img/180526a2e9571c4a5d5946fa98c5131b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170926/img/180526a2e9571c4a5d5946fa98c5131b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170926/img/180526a2e9571c4a5d5946fa98c5131b_640_640.jpg",
+          "discount": "5.8",
+          "flashPrice": "下单闪降20元，实付379元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "993600",
+          "goodsName": "IGLDSI 哥斯兰顿秋冬男女款运动潮鞋 YD1600",
+          "crazyPrice": "139",
+          "shopPrice": "399",
+          "stocknum": "3200",
+          "img120url": "http://img.shandjj.com/fdc/20170925/img/2edfbbce62cb0a7739820194315fcd01_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170925/img/2edfbbce62cb0a7739820194315fcd01_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170925/img/2edfbbce62cb0a7739820194315fcd01_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.4"
+        },
+        {
+          "goodsId": "741922",
+          "goodsName": "哥斯兰顿 情侣时尚篮球战靴高档材质 潮2089",
+          "crazyPrice": "199",
+          "shopPrice": "399",
+          "stocknum": "1023",
+          "img120url": "http://img.shandjj.com/fdc/20170710/img/8a811dd347d8b5f6ff0a02b812ce7731_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170710/img/8a811dd347d8b5f6ff0a02b812ce7731_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170710/img/8a811dd347d8b5f6ff0a02b812ce7731_640_640.jpg",
+          "saleType": 4,
+          "discount": "4.9"
+        },
+        {
+          "goodsId": "912438",
+          "goodsName": "左岸2017秋冬季新品韩版修身时尚个性迷彩纹连帽卫衣ZA-JKS1802",
+          "crazyPrice": "79",
+          "shopPrice": "399",
+          "stocknum": "784",
+          "img120url": "http://img.shandjj.com/fdc/20170729/img/242341060cee4a9cef22ccb54f9aaf6b_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170729/img/242341060cee4a9cef22ccb54f9aaf6b_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170729/img/242341060cee4a9cef22ccb54f9aaf6b_640_640.jpg",
+          "saleType": 4,
+          "discount": "1.9"
+        },
+        {
+          "goodsId": "940163",
+          "goodsName": "2人组秋夏季男士衬衫薄长袖潮男潮流印花帅气长袖修身衬衫日系复古衣服AC8541",
+          "crazyPrice": "119",
+          "shopPrice": "398",
+          "stocknum": "787",
+          "img120url": "http://img.shandjj.com/fdc/20170818/img/c1c72b3edc7356fc24400a78ea5b93dc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170818/img/c1c72b3edc7356fc24400a78ea5b93dc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170818/img/c1c72b3edc7356fc24400a78ea5b93dc_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.9"
+        },
+        {
+          "goodsId": "940113",
+          "goodsName": "2人组纯棉牛仔外套男长袖衬衫修身休闲牛仔衬衣韩版帅气薄款学生寸衫潮AC8517",
+          "crazyPrice": "119",
+          "shopPrice": "398",
+          "stocknum": "393",
+          "img120url": "http://img.shandjj.com/fdc/20170818/img/299cb9dd7ca453e9149260b16fcdd597_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170818/img/299cb9dd7ca453e9149260b16fcdd597_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170818/img/299cb9dd7ca453e9149260b16fcdd597_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.9"
+        },
+        {
+          "goodsId": "927973",
+          "goodsName": "【推荐】 希路猎人男鞋秋冬潮鞋新款运动鞋男韩版百搭男士休闲鞋青少年潮流鞋子735",
+          "crazyPrice": "149",
+          "shopPrice": "599",
+          "stocknum": "520",
+          "img120url": "http://img.shandjj.com/fdc/20170810/img/7724a8342168b91c6222a881acffa3fc_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170810/img/7724a8342168b91c6222a881acffa3fc_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170810/img/7724a8342168b91c6222a881acffa3fc_640_640.jpg",
+          "discount": "2.3",
+          "flashPrice": "下单闪降10元，实付139元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "956512",
+          "goodsName": "【推荐】 希路猎人男鞋秋冬潮鞋新款运动鞋男韩版百搭男士休闲鞋青少年潮流鞋子9710",
+          "crazyPrice": "139",
+          "shopPrice": "599",
+          "stocknum": "555",
+          "img120url": "http://img.shandjj.com/fdc/20170830/img/bf977f700f3dc60597178cdc2dad8e30_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170830/img/bf977f700f3dc60597178cdc2dad8e30_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170830/img/bf977f700f3dc60597178cdc2dad8e30_640_640.jpg",
+          "discount": "2.1",
+          "flashPrice": "下单闪降10元，实付129元",
+          "cutPrice": "-10",
+          "saleType": 3
+        },
+        {
+          "goodsId": "927111",
+          "goodsName": "日本AKAW保温杯350ML 双层真空保温 奶白色6937317200202",
+          "crazyPrice": "99",
+          "shopPrice": "299",
+          "stocknum": "21",
+          "img120url": "http://img.shandjj.com/fdc/20170828/img/8706173b7e7bce5edb5c6657e19f04a3_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170828/img/8706173b7e7bce5edb5c6657e19f04a3_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170828/img/8706173b7e7bce5edb5c6657e19f04a3_640_640.jpg",
+          "discount": "2.6",
+          "flashPrice": "下单闪降20元，实付79元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "690160",
+          "goodsName": "锐度男士精油多效舒活霜 乳液 亮肤补水保湿 清爽滋润舒缓护肤品50g",
+          "crazyPrice": "59",
+          "shopPrice": "165",
+          "stocknum": "143",
+          "img120url": "http://img.shandjj.com/fdc/20170921/img/645479d40c75af7a94b50e51908d288f_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170921/img/cf1ba3aeffe030e6014c57d9ab514a21_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170921/img/cf1ba3aeffe030e6014c57d9ab514a21_640_640.jpg",
+          "discount": "2.3",
+          "flashPrice": "下单闪降20元，实付39元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "685429",
+          "goodsName": "锐度男士香水持久淡香清新 古龙男士香水 运动魅力香水45ml",
+          "crazyPrice": "89",
+          "shopPrice": "163",
+          "stocknum": "147",
+          "img120url": "http://img.shandjj.com/fdc/20170302/img/9b8ab94cd9828782c647d10e07418737_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170302/img/9b8ab94cd9828782c647d10e07418737_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170302/img/9b8ab94cd9828782c647d10e07418737_640_640.jpg",
+          "discount": "4.2",
+          "flashPrice": "下单闪降20元，实付69元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "684676",
+          "goodsName": "锐度男士3+水份滋润乳 保湿霜补水滋润乳液 面霜护肤润肤露 擦脸油护脸护肤品",
+          "crazyPrice": "69",
+          "shopPrice": "158",
+          "stocknum": "318",
+          "img120url": "http://img.shandjj.com/fdc/20170510/img/2ca3a4333209deb6d8a861e4ea3da1f0_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170510/img/2ca3a4333209deb6d8a861e4ea3da1f0_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170510/img/2ca3a4333209deb6d8a861e4ea3da1f0_640_640.jpg",
+          "discount": "3.1",
+          "flashPrice": "下单闪降20元，实付49元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "953738",
+          "goodsName": "Puma 彪马 男女情侣低帮经典小黄人板鞋运动休闲鞋365668-01",
+          "crazyPrice": "419",
+          "shopPrice": "1289",
+          "stocknum": "707",
+          "img120url": "http://img.shandjj.com/fdc/20170829/img/e44982a812a484c12b56c70f23d51faf_120_120.JPG",
+          "img320url": "http://img.shandjj.com/fdc/20170829/img/e44982a812a484c12b56c70f23d51faf_320_320.JPG",
+          "img640url": "http://img.shandjj.com/fdc/20170829/img/e44982a812a484c12b56c70f23d51faf_640_640.JPG",
+          "discount": "3.0",
+          "flashPrice": "下单闪降30元，实付389元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "797241",
+          "goodsName": "Puma 彪马 低帮经典板鞋复古休闲鞋运动鞋361617-03",
+          "crazyPrice": "439",
+          "shopPrice": "789",
+          "stocknum": "690",
+          "img120url": "http://img.shandjj.com/fdc/20170905/img/2a967e3ef2b7107155eff61348ae01a9_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170905/img/2a967e3ef2b7107155eff61348ae01a9_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170905/img/2a967e3ef2b7107155eff61348ae01a9_640_640.jpg",
+          "discount": "5.1",
+          "flashPrice": "下单闪降30元，实付409元",
+          "cutPrice": "-30",
+          "saleType": 4
+        },
+        {
+          "goodsId": "764307",
+          "goodsName": "BURBERRY/巴宝莉 正品手表 白色格纹表带圆盘日历男士手表BU9023",
+          "crazyPrice": "619",
+          "shopPrice": "3198",
+          "stocknum": "70",
+          "img120url": "http://img.shandjj.com/fdc/20170805/img/a8e39011aa3806bb34823c7eac441170_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170805/img/a8e39011aa3806bb34823c7eac441170_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170805/img/a8e39011aa3806bb34823c7eac441170_640_640.jpg",
+          "saleType": 4,
+          "discount": "1.9"
+        },
+        {
+          "goodsId": "813259",
+          "goodsName": "BURBERRY/巴宝莉 正品手表 钢带圆盘日历情侣表男表女表情侣表 BU1350/BU1351",
+          "crazyPrice": "689",
+          "shopPrice": "2280",
+          "stocknum": "42",
+          "img120url": "http://img.shandjj.com/fdc/20170715/img/6b3cd831fece537daf5fd324fca7b348_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170715/img/6b3cd831fece537daf5fd324fca7b348_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170715/img/6b3cd831fece537daf5fd324fca7b348_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.0"
+        },
+        {
+          "goodsId": "541679",
+          "goodsName": "Nike 耐克ROSHE ONE 休闲跑鞋运动鞋511881-020",
+          "crazyPrice": "389",
+          "shopPrice": "499",
+          "stocknum": "414",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161129/59/3bb10f778225a5c0606c07f09b4c3097_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161129/59/3bb10f778225a5c0606c07f09b4c3097_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161129/59/3bb10f778225a5c0606c07f09b4c3097_640_640.jpg",
+          "discount": "7.3",
+          "flashPrice": "下单闪降20元，实付369元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "657672",
+          "goodsName": "CEEN策恩男皮鞋 真皮鳄鱼皮男士休闲皮鞋子八爪鱼鳄鱼纹套脚男鞋潮鞋偏大CV8068",
+          "crazyPrice": "359",
+          "shopPrice": "1298",
+          "stocknum": "42",
+          "img120url": "http://img.shandjj.com/fdc/2017/20170209/35/a7cee82882dcba727d57278b996fa9fa_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2017/20170209/35/a7cee82882dcba727d57278b996fa9fa_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2017/20170209/35/c7ddb042cadb6fd4555f7856f27f46ee_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.7"
+        },
+        {
+          "goodsId": "741879",
+          "goodsName": "CEEN策恩 纯手工拉线休闲皮鞋 八爪鱼驾车鞋 鳄鱼纹真皮男鞋CV8O22",
+          "crazyPrice": "359",
+          "shopPrice": "1398",
+          "stocknum": "17",
+          "img120url": "http://img.shandjj.com/fdc/20170407/img/a12f43a150727caab26e0aae79ac4a4f_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170407/img/a12f43a150727caab26e0aae79ac4a4f_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170407/img/a12f43a150727caab26e0aae79ac4a4f_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.5"
+        },
+        {
+          "goodsId": "989771",
+          "goodsName": "森雷司男士时尚休闲套头卫衣外套",
+          "crazyPrice": "69",
+          "shopPrice": "199",
+          "stocknum": "1287",
+          "img120url": "http://img.shandjj.com/fdc/20170924/img/25ba141f821c9a5f5bb92171fb0ca566_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170924/img/25ba141f821c9a5f5bb92171fb0ca566_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170924/img/25ba141f821c9a5f5bb92171fb0ca566_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.4"
+        },
+        {
+          "goodsId": "989504",
+          "goodsName": "森雷司秋季男士休闲小脚休闲裤",
+          "crazyPrice": "79",
+          "shopPrice": "299",
+          "stocknum": "11968",
+          "img120url": "http://img.shandjj.com/fdc/20170921/img/c4aa2a9e3e534a7d8a17fead3b9fee3a_120_120.JPG",
+          "img320url": "http://img.shandjj.com/fdc/20170921/img/c4aa2a9e3e534a7d8a17fead3b9fee3a_320_320.JPG",
+          "img640url": "http://img.shandjj.com/fdc/20170921/img/c4aa2a9e3e534a7d8a17fead3b9fee3a_640_640.JPG",
+          "saleType": 4,
+          "discount": "2.6"
+        },
+        {
+          "goodsId": "875605",
+          "goodsName": "Nike耐克 男运动休闲跑步鞋 833411-401",
+          "crazyPrice": "419",
+          "shopPrice": "699",
+          "stocknum": "210",
+          "img120url": "http://img.shandjj.com/fdc/20170705/img/6cc8c6a2eee3f04189cea70d25410ab2_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170705/img/6cc8c6a2eee3f04189cea70d25410ab2_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170705/img/6cc8c6a2eee3f04189cea70d25410ab2_640_640.jpg",
+          "discount": "5.5",
+          "flashPrice": "下单闪降30元，实付389元",
+          "cutPrice": "-30",
+          "saleType": 3
+        },
+        {
+          "goodsId": "854845",
+          "goodsName": "Nike耐克 Sportswear Tennis Classic 男女休闲鞋 683613-104",
+          "crazyPrice": "429",
+          "shopPrice": "899",
+          "stocknum": "389",
+          "img120url": "http://img.shandjj.com/fdc/20170622/img/5d7b5fe80208aae5335f5e2a0f41774a_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170622/img/5d7b5fe80208aae5335f5e2a0f41774a_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170622/img/5d7b5fe80208aae5335f5e2a0f41774a_640_640.jpg",
+          "discount": "4.4",
+          "flashPrice": "下单闪降30元，实付399元",
+          "cutPrice": "-30",
+          "saleType": 3
+        },
+        {
+          "goodsId": "891798",
+          "goodsName": "COMME des GARCONS 川久保玲 男女款潮牌长袖T恤R1Y588",
+          "crazyPrice": "259",
+          "shopPrice": "699",
+          "stocknum": "62",
+          "img120url": "http://img.shandjj.com/fdc/20170717/img/99ebbee3dec001423c63a335e4d614fd_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170717/img/99ebbee3dec001423c63a335e4d614fd_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170717/img/99ebbee3dec001423c63a335e4d614fd_640_640.jpg",
+          "saleType": 4,
+          "discount": "3.7"
+        },
+        {
+          "goodsId": "891828",
+          "goodsName": "COMME des GARCONS 川久保玲 男女款潮牌长袖T恤R1D653",
+          "crazyPrice": "259",
+          "shopPrice": "1099",
+          "stocknum": "62",
+          "img120url": "http://img.shandjj.com/fdc/20170717/img/4cbb1483467aafa090f5853c0f8ed475_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170717/img/4cbb1483467aafa090f5853c0f8ed475_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170717/img/4cbb1483467aafa090f5853c0f8ed475_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.3"
+        },
+        {
+          "goodsId": "801426",
+          "goodsName": "New Balance/NB 574系列 男女款休闲鞋跑步鞋 ML574VN",
+          "crazyPrice": "319",
+          "shopPrice": "619",
+          "stocknum": "542",
+          "img120url": "http://img.shandjj.com/fdc/20170514/img/0e37b2fdd293640a0827948da583f18e_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170514/img/0e37b2fdd293640a0827948da583f18e_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170514/img/0e37b2fdd293640a0827948da583f18e_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.1"
+        },
+        {
+          "goodsId": "801154",
+          "goodsName": "New Balance/NB 574系列 男女款经典休闲运动跑步鞋 ML574UC",
+          "crazyPrice": "319",
+          "shopPrice": "619",
+          "stocknum": "552",
+          "img120url": "http://img.shandjj.com/fdc/20170514/img/8303df3f928f34b67ae8ac63c3fb7b34_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170514/img/8303df3f928f34b67ae8ac63c3fb7b34_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170514/img/8303df3f928f34b67ae8ac63c3fb7b34_640_640.jpg",
+          "saleType": 4,
+          "discount": "5.1"
+        },
+        {
+          "goodsId": "961693",
+          "goodsName": "AAPE 2017秋装新款潮流男士圆领套头卫衣 薄款黑灰色8L12",
+          "crazyPrice": "319",
+          "shopPrice": "1288",
+          "stocknum": "148",
+          "img120url": "http://img.shandjj.com/fdc/20170904/img/c144a8ceb7cbd4361fed83ce91e4b042_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170904/img/c144a8ceb7cbd4361fed83ce91e4b042_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170904/img/c144a8ceb7cbd4361fed83ce91e4b042_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.4"
+        },
+        {
+          "goodsId": "961692",
+          "goodsName": "AAPE 2017秋装新款潮流男士圆领套头卫衣 薄款黑黄色8L12",
+          "crazyPrice": "319",
+          "shopPrice": "1288",
+          "stocknum": "154",
+          "img120url": "http://img.shandjj.com/fdc/20170904/img/c610e8669dc630a2fa094216bbbf64d9_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170904/img/c610e8669dc630a2fa094216bbbf64d9_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170904/img/c610e8669dc630a2fa094216bbbf64d9_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.4"
+        },
+        {
+          "goodsId": "899981",
+          "goodsName": "AAPE 2017春秋新款时尚潮流男士休闲长裤 宝蓝色880",
+          "crazyPrice": "309",
+          "shopPrice": "1588",
+          "stocknum": "80",
+          "img120url": "http://img.shandjj.com/fdc/20170813/img/642913e3eb7e640490929ba47ecb0f7e_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170813/img/642913e3eb7e640490929ba47ecb0f7e_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170813/img/642913e3eb7e640490929ba47ecb0f7e_640_640.jpg",
+          "saleType": 4,
+          "discount": "1.9"
+        },
+        {
+          "goodsId": "969074",
+          "goodsName": "DIESEL/迪赛 男士牛仔裤简约修身长裤E282",
+          "crazyPrice": "459",
+          "shopPrice": "3200",
+          "stocknum": "146",
+          "img120url": "http://img.shandjj.com/fdc/20170909/img/254b2436e17ab78d3fe4f022b017a30d_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170909/img/254b2436e17ab78d3fe4f022b017a30d_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170909/img/254b2436e17ab78d3fe4f022b017a30d_640_640.jpg",
+          "discount": "1.3",
+          "flashPrice": "下单闪降20元，实付439元",
+          "cutPrice": "-20",
+          "saleType": 3
+        },
+        {
+          "goodsId": "927660",
+          "goodsName": "Champion 冠军 2017秋冬新款男士时尚潮流休闲圆领套头卫衣 薄款白色B02",
+          "crazyPrice": "259",
+          "shopPrice": "1066",
+          "stocknum": "44",
+          "img120url": "http://img.shandjj.com/fdc/20170810/img/07e86707fc448d77bbce7a51ad72616f_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170810/img/07e86707fc448d77bbce7a51ad72616f_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170810/img/07e86707fc448d77bbce7a51ad72616f_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.4"
+        },
+        {
+          "goodsId": "927655",
+          "goodsName": "Champion 冠军 2017秋冬新款男士时尚潮流休闲圆领套头卫衣 薄款黑色B02",
+          "crazyPrice": "259",
+          "shopPrice": "1066",
+          "stocknum": "64",
+          "img120url": "http://img.shandjj.com/fdc/20170810/img/0c2e7f36ff3f0b4e88f0eee5b71637ec_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170810/img/0c2e7f36ff3f0b4e88f0eee5b71637ec_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170810/img/0c2e7f36ff3f0b4e88f0eee5b71637ec_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.4"
+        },
+        {
+          "goodsId": "929176",
+          "goodsName": "Champion 冠军 2017秋冬新款男士小脚加绒卫裤时尚休闲长裤 黑色K12",
+          "crazyPrice": "299",
+          "shopPrice": "1288",
+          "stocknum": "60",
+          "img120url": "http://img.shandjj.com/fdc/20170810/img/d953f52b536370a6d3a5dce12f2869dd_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/20170810/img/db69fa038dfc3efd7b7bbb30e7fe2283_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/20170810/img/db69fa038dfc3efd7b7bbb30e7fe2283_640_640.jpg",
+          "saleType": 4,
+          "discount": "2.3"
+        },
+        {
+          "goodsId": "531992",
+          "goodsName": "asics/亚瑟士 男士休闲跑步鞋H519L-1611",
+          "crazyPrice": "379",
+          "shopPrice": "900",
+          "stocknum": "269",
+          "img120url": "http://img.shandjj.com/fdc/2016/20161014/15/55623bbe94a6f55b2f08cc0da0c60929_120_120.jpg",
+          "img320url": "http://img.shandjj.com/fdc/2016/20161014/15/55623bbe94a6f55b2f08cc0da0c60929_320_320.jpg",
+          "img640url": "http://img.shandjj.com/fdc/2016/20161014/15/55623bbe94a6f55b2f08cc0da0c60929_640_640.jpg",
+          "discount": "3.9",
+          "flashPrice": "下单闪降20元，实付359元",
+          "cutPrice": "-20",
+          "saleType": 3
+        }
+      ]
+    }
+  },
+  "users":{
+    "result": 1,
+    "data": [
+      "5分钟前，用户185****3022获得104.5股",
+      "5分钟前，用户150****7360获得63.0股",
+      "4分钟前，用户185****2796获得52.4股",
+      "3分钟前，用户131****8215获得130.1股",
+      "2分钟前，用户153****9228获得70.4股",
+      "2分钟前，用户180****7992获得74.5股",
+      "2分钟前，用户153****3800获得32.7股",
+      "1分钟前，用户156****8760获得135.0股",
+      "1分钟前，用户133****5713获得75.5股",
+      "26秒前，用户180****7226获得96.3股"
+    ]
+  },
+  "cutGoods":{
+    "result": 1,
+    "message": "",
+    "catTypes": [
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20170927/59cb1a730aa79.png",
+        "type": "6",
+        "name": "运动",
+        "link": "2",
+        "wh": "150:180"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20170927/59cb1a7949f90.png",
+        "type": "6",
+        "name": "服饰",
+        "link": "3",
+        "wh": "150:180"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20170927/59cb1a8029374.png",
+        "type": "6",
+        "name": "鞋包",
+        "link": "5",
+        "wh": "150:180"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20170927/59cb1a8bb8177.png",
+        "type": "6",
+        "name": "美妆",
+        "link": "4",
+        "wh": "150:180"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20170927/59cb1a8602f79.png",
+        "type": "6",
+        "name": "更多",
+        "link": "8",
+        "wh": "150:180"
+      }
+    ],
+    "banners": [],
+    "salesTitle": {
+      "saleImage": "http://static.shandjj.com/app/images/home_update_time.png?v=1",
+      "wh": "720:104"
+    },
+    "data": [
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0929142910.jpg",
+        "activeUrl": "http://hd.shandjj.com/index.php/OctActivity/times/tj/3",
+        "type": 2,
+        "title": "不输时间经典款",
+        "viewType": "1",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "",
+        "saleTime": "剩3天",
+        "linkId": "http://hd.shandjj.com/index.php/OctActivity/times/tj/3"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171015/59e23845e55d7.jpg",
+        "type": 3,
+        "title": "NIKE/ADIDAS三叶草 运动鞋服专场",
+        "viewType": "1",
+        "flashDown": "闪降最高100元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满699减70",
+        "saleTime": "剩3天",
+        "linkId": "25693"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e09932f41bc.jpg",
+        "activeUrl": "http://hd.shandjj.com/index.php/SepActivity/color/tj/3",
+        "type": 2,
+        "title": "高能撞色 无色不欢",
+        "viewType": "1",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "",
+        "saleTime": "剩3天",
+        "linkId": "http://hd.shandjj.com/index.php/SepActivity/color/tj/3"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171015/59e37d28830a2.jpg",
+        "type": 3,
+        "title": "399封顶 Adidas&Nike鞋服专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "全场399元封顶",
+        "saleTime": "剩3天",
+        "linkId": "25721"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e09eeb4d43d.jpg",
+        "type": 3,
+        "title": "川久保玲秋冬新款专场【高能撞色】",
+        "viewType": "1",
+        "flashDown": "最高闪降20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满399减20  满599减40",
+        "saleTime": "剩3天",
+        "linkId": "25685"
+      },
+      {
+        "title": "男生专场",
+        "viewType": "1",
+        "imgUrl": "http://img.shandjj.com/uploads/20170911/59b643e445be3.jpg",
+        "type": 7,
+        "wh": "844:514",
+        "linkId": "gender:male"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171015/59e3813102e3c.jpg",
+        "type": 3,
+        "title": "7折封顶 Adidas&Nike鞋服专场",
+        "viewType": "1",
+        "flashDown": "闪降最高50元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "全场7折封顶",
+        "saleTime": "剩3天",
+        "linkId": "25720"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e05cb8d037b.jpg",
+        "type": 3,
+        "title": "Aape秋季潮装上新专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满299减10满599减30元",
+        "saleTime": "剩2天",
+        "linkId": "25672"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df3c5db62c0.jpg",
+        "type": 3,
+        "title": "DW腕表专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 30元无门槛券",
+        "saleTime": "剩3天",
+        "linkId": "25549"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171014/59e0e48162744.jpg",
+        "type": 3,
+        "title": "NIKE/Adidas 运动鞋服专场",
+        "viewType": "1",
+        "flashDown": "闪降最高100元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满599减50",
+        "saleTime": "剩2天",
+        "linkId": "25725"
+      },
+      {
+        "title": "家百专场",
+        "viewType": "1",
+        "imgUrl": "http://img.shandjj.com/uploads/20170911/59b64453b25d4.jpg",
+        "type": 7,
+        "wh": "844:514",
+        "linkId": "app_style:homeDepartmentStore"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e03066c7626.jpg",
+        "type": 3,
+        "title": "asics亚瑟士&鬼冢虎 运动鞋混合专场",
+        "viewType": "1",
+        "flashDown": "闪降最高40元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满699减60",
+        "saleTime": "剩3天",
+        "linkId": "25623"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e08eae113bf.jpg",
+        "type": 3,
+        "title": "Ed Hardy/埃德·哈迪男女潮牌专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减20满599减30元",
+        "saleTime": "剩2天",
+        "linkId": "25710"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e078c0046fa.jpg",
+        "type": 3,
+        "title": "斯凯奇Skechers 男女运动鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "买就减10元 满399减30 满699减70",
+        "saleTime": "剩3天",
+        "linkId": "25696"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e02d879bf51.jpg",
+        "type": 3,
+        "title": "欧美大牌（小样）品牌混合专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "99选2",
+        "saleTime": "剩3天",
+        "linkId": "25649"
+      },
+      {
+        "title": "化妆品专场",
+        "viewType": "1",
+        "imgUrl": "http://img.shandjj.com/uploads/20170911/59b6443e704d9.jpg",
+        "type": 7,
+        "wh": "844:514",
+        "linkId": "app_style:cosmetics"
+      },
+      {
+        "title": "饰品专场",
+        "viewType": "1",
+        "imgUrl": "http://img.shandjj.com/uploads/20170911/59b6458517894.jpg",
+        "type": 7,
+        "wh": "844:514",
+        "linkId": "app_style:ornaments"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0a3033abeb.jpg",
+        "type": 3,
+        "title": "欧希韵女装专场【高能撞色】",
+        "viewType": "1",
+        "flashDown": "最高闪降10元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满129减10  满199减15",
+        "saleTime": "剩3天",
+        "linkId": "25628"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc67e2c0447.jpg",
+        "type": 3,
+        "title": "New Balance 新百伦男女休闲鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高40元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满699减70",
+        "saleTime": "剩2天",
+        "linkId": "25447"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df2b2b989d4.jpg",
+        "type": 3,
+        "title": "VANS 范斯折扣专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满599减50",
+        "saleTime": "剩2天",
+        "linkId": "25610"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0623f499e8.jpg",
+        "type": 3,
+        "title": "USPOLO美国马球协会男装专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199减20满299减40元",
+        "saleTime": "剩2天",
+        "linkId": "25584"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e07ee5064c0.jpg",
+        "type": 3,
+        "title": "美国U牌 品牌女鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199减10 299减30",
+        "saleTime": "剩2天",
+        "linkId": "25655"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0770a55c25.jpg",
+        "type": 3,
+        "title": "CITIZEN西铁城腕表专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满700减50",
+        "saleTime": "剩2天",
+        "linkId": "25690"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df070c31721.jpg",
+        "type": 3,
+        "title": "Nike&adidas 品牌折扣专场",
+        "viewType": "1",
+        "flashDown": "闪降最高100元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满599减60",
+        "saleTime": "剩14小时",
+        "linkId": "25598"
+      },
+      {
+        "title": "数码专场",
+        "viewType": "1",
+        "imgUrl": "http://img.shandjj.com/uploads/20170911/59b64449736c7.jpg",
+        "type": 7,
+        "wh": "844:514",
+        "linkId": "app_style:electronicProduct"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0d48e6651f.jpg",
+        "type": 3,
+        "title": "Nike/adidas 男女运动鞋服混合场",
+        "viewType": "1",
+        "flashDown": "闪降最高100元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满599减60",
+        "saleTime": "剩1天",
+        "linkId": "25715"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0765b88da7.jpg",
+        "type": 3,
+        "title": "日韩人气单品专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满3件减8元",
+        "saleTime": "剩2天",
+        "linkId": "25691"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e051cb19cf1.jpg",
+        "type": 3,
+        "title": "trackman自游人 户外装备特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高50元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减5 满199减15 满299减30",
+        "saleTime": "剩3天",
+        "linkId": "25644"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df003028f96.jpg",
+        "type": 3,
+        "title": "CONVERSE匡威 男女休闲板鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减20",
+        "saleTime": "剩1天",
+        "linkId": "25586"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59ddcc9db9054.jpg",
+        "activeUrl": "http://hd.shandjj.com/index.php/SepActivity/fy/tj/3",
+        "type": 2,
+        "title": "腕表风云",
+        "viewType": "1",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "",
+        "saleTime": "剩14小时",
+        "linkId": "http://hd.shandjj.com/index.php/SepActivity/fy/tj/3"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e028e64a890.png",
+        "activeUrl": "http://hd.shandjj.com/index.php/OctActivity/body/tj/3",
+        "type": 2,
+        "title": "解密身体密码",
+        "viewType": "1",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "",
+        "saleTime": "剩1天",
+        "linkId": "http://hd.shandjj.com/index.php/OctActivity/body/tj/3"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df0bffbed90.jpg",
+        "type": 3,
+        "title": "Stussy秋冬新品潮服专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满299减10满499减20元",
+        "saleTime": "剩1天",
+        "linkId": "25597"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59ded23c5a931.jpg",
+        "type": 3,
+        "title": "阿玛尼Armani腕表专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满600减30",
+        "saleTime": "剩1天",
+        "linkId": "25572"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59ded586cfce6.jpg",
+        "type": 3,
+        "title": "雪花秀品牌专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满199减20 299减30",
+        "saleTime": "剩1天",
+        "linkId": "25541"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e08c776d9fc.jpg",
+        "type": 3,
+        "title": "蓝锭红时尚女装专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满129-10 169-15 239-20",
+        "saleTime": "剩2天",
+        "linkId": "25668"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59dee493c2681.jpg",
+        "type": 3,
+        "title": "Puma彪马 运动休闲鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满399减30 满699减70",
+        "saleTime": "剩14小时",
+        "linkId": "25590"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59ddcc6a8cc19.jpg",
+        "type": 3,
+        "title": "Dickies帝客服饰折扣专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满299减10满499减25元",
+        "saleTime": "剩14小时",
+        "linkId": "25544"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59dddff2bc84b.jpg",
+        "type": 3,
+        "title": "COACH/蔻驰 品牌男女包专场",
+        "viewType": "1",
+        "flashDown": "闪降最高100元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满0减20 699减50 999减80",
+        "saleTime": "剩14小时",
+        "linkId": "25528"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc7f621c904.jpg",
+        "type": 3,
+        "title": "人气香水小样混合专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满99减5 199减15",
+        "saleTime": "剩14小时",
+        "linkId": "25509"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59ddbb956e53b.jpg",
+        "type": 3,
+        "title": "COACH蔻驰腕表专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满500减20 999减50",
+        "saleTime": "剩14小时",
+        "linkId": "25450"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e05d4579a54.jpg",
+        "type": 3,
+        "title": "韩韵伊帛 清新女装特卖专区",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满129减5满199减10元",
+        "saleTime": "剩2天",
+        "linkId": "25446"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e06cbd9807c.jpg",
+        "type": 3,
+        "title": "LeeLFF 秋冬男女鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满119减10 169减20",
+        "saleTime": "剩2天",
+        "linkId": "25576"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e06a9a5b124.jpg",
+        "type": 3,
+        "title": "唐丰茶具专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满299减20",
+        "saleTime": "剩1天",
+        "linkId": "25682"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e09575a0102.jpg",
+        "type": 3,
+        "title": "LOUIS ROYER法国利蜂家居服品牌专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": " 满299减20 满399减30",
+        "saleTime": "剩3天",
+        "linkId": "25502"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e093dd66cd2.jpg",
+        "type": 3,
+        "title": "摩帝尼克秋冬牛仔专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199-10 299-20",
+        "saleTime": "剩3天",
+        "linkId": "25419"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e06d88c6217.jpg",
+        "type": 3,
+        "title": "侨丰家居百货专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满65减5 99减10",
+        "saleTime": "剩3天",
+        "linkId": "25263"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171014/59e21794502eb.jpg",
+        "type": 3,
+        "title": "梦娜米露 秋时尚女包专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减8 199减25",
+        "saleTime": "剩3天",
+        "linkId": "25656"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e016c37b810.jpg",
+        "type": 3,
+        "title": "Carslan卡姿兰彩妆专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满199减10 299减30",
+        "saleTime": "剩3天",
+        "linkId": "25595"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0966dc6fa8.jpg",
+        "type": 3,
+        "title": "A面B面 秋冬季新款潮牌特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-5 199-10",
+        "saleTime": "剩3天",
+        "linkId": "25681"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0923423833.jpg",
+        "type": 3,
+        "title": "Pusite秋冬特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199-10 299-20",
+        "saleTime": "剩3天",
+        "linkId": "25687"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171014/59e2165d4eed9.jpg",
+        "type": 3,
+        "title": "Padieoe 男女包特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满85减5",
+        "saleTime": "剩3天",
+        "linkId": "25646"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0a17b3511e.jpg",
+        "type": 3,
+        "title": "琼斯维格牛仔女装专场【高能撞色】",
+        "viewType": "1",
+        "flashDown": "最高闪降10元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满199减20  满299减50",
+        "saleTime": "剩3天",
+        "linkId": "25684"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0516ee4166.jpg",
+        "type": 3,
+        "title": "gertop德意志山峰 户外运动鞋类专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减5 满199减20",
+        "saleTime": "剩3天",
+        "linkId": "25615"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171014/59e216d28b7d3.jpg",
+        "type": 3,
+        "title": "名典 品牌女鞋139选2专场",
+        "viewType": "1",
+        "flashDown": "闪降最高10元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "全场139选2",
+        "saleTime": "剩3天",
+        "linkId": "25659"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e07a3677674.jpg",
+        "type": 3,
+        "title": "ONEMIX玩觅 运动潮鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满299减20 满399减30",
+        "saleTime": "剩3天",
+        "linkId": "25692"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e05ffec9567.jpg",
+        "type": 3,
+        "title": "D&G腕表专场",
+        "viewType": "1",
+        "flashDown": "闪降最高50元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满499减30",
+        "saleTime": "剩2天",
+        "linkId": "25478"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df2ce9093e6.jpg",
+        "type": 3,
+        "title": "全场99选2 JOMA&曼魔&爱斯奇武混合专场",
+        "viewType": "1",
+        "flashDown": "闪降最高50元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "全场99选2",
+        "saleTime": "剩3天",
+        "linkId": "25588"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0810dcd631.jpg",
+        "type": 3,
+        "title": "欧冠 混合运动内衣专场",
+        "viewType": "1",
+        "flashDown": "闪降最高10元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减10 满199减30",
+        "saleTime": "剩3天",
+        "linkId": "25702"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e090f455740.jpg",
+        "type": 3,
+        "title": "AERNOH 秋冬潮牌特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-5 159-10 199-20",
+        "saleTime": "剩2天",
+        "linkId": "25670"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e01cfcf32cd.jpg",
+        "type": 3,
+        "title": "ZORRO打火机专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满99减10",
+        "saleTime": "剩2天",
+        "linkId": "25636"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e01bd88d45a.jpg",
+        "type": 3,
+        "title": "锐度男士护肤专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满99减30 199减70",
+        "saleTime": "剩2天",
+        "linkId": "25481"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e08a7ccf799.jpg",
+        "type": 3,
+        "title": "JIM'S 秋季特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199-10 299-20",
+        "saleTime": "剩2天",
+        "linkId": "25667"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e02c9da8ed1.jpg",
+        "type": 3,
+        "title": "韩国WellDerma梦蜗面膜专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满89减20",
+        "saleTime": "剩2天",
+        "linkId": "25631"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df1880a631e.jpg",
+        "type": 3,
+        "title": "策航 时尚运动男鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减5 满159减10 满199减20",
+        "saleTime": "剩2天",
+        "linkId": "25609"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e01f16d3695.jpg",
+        "type": 3,
+        "title": "SD 户外运动休闲男装专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满149减15 满199减20",
+        "saleTime": "剩2天",
+        "linkId": "25619"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e08d3e04ecf.jpg",
+        "type": 3,
+        "title": "依思妃10月购物季大促",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "2件8.5折 3件8折",
+        "saleTime": "剩2天",
+        "linkId": "25424"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e081e74f033.jpg",
+        "type": 3,
+        "title": "KEMELO卡玫罗 精品女包专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减10 159减20",
+        "saleTime": "剩2天",
+        "linkId": "25637"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e07dcede012.jpg",
+        "type": 3,
+        "title": "易秀 时尚男女包专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "全场99选2",
+        "saleTime": "剩2天",
+        "linkId": "25587"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0631a5a173.jpg",
+        "type": 3,
+        "title": "番茄派护肤专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满99减15",
+        "saleTime": "剩2天",
+        "linkId": "25673"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e083d590832.jpg",
+        "type": 3,
+        "title": "袋妍人 男女款拉杆箱热销专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199减30 399减60",
+        "saleTime": "剩2天",
+        "linkId": "25534"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59dec37d08d4f.jpg",
+        "type": 3,
+        "title": "探锐者 品牌男鞋精选专场",
+        "viewType": "1",
+        "flashDown": "闪降最高10元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "5元无门槛 领券满199减20",
+        "saleTime": "剩14小时",
+        "linkId": "25561"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc8e714ddc8.jpg",
+        "type": 3,
+        "title": "领舞者 男女运动鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减5 满159减10 满199减20",
+        "saleTime": "剩1天",
+        "linkId": "25508"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e054f3077c9.jpg",
+        "type": 3,
+        "title": "昂妃 男女士健身服特惠专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减5 满169减10",
+        "saleTime": "剩1天",
+        "linkId": "25660"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e07ffd3b996.jpg",
+        "type": 3,
+        "title": "宾仕格调秋冬特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199-10 299-20",
+        "saleTime": "剩1天",
+        "linkId": "25665"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0978297a76.jpg",
+        "type": 3,
+        "title": "南极人牛仔裤专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-5 199-10",
+        "saleTime": "剩1天",
+        "linkId": "25711"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e07ce0c027e.jpg",
+        "type": 3,
+        "title": "洛丽欧时尚女装专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满129-10 169-15 239-20",
+        "saleTime": "剩1天",
+        "linkId": "25650"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df3772f2120.jpg",
+        "type": 3,
+        "title": "韩熙贞彩妆专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满79减10 99减20",
+        "saleTime": "剩1天",
+        "linkId": "25624"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e0879bdca82.jpg",
+        "type": 3,
+        "title": "探路者 品牌折扣专场",
+        "viewType": "1",
+        "flashDown": "闪降最高50元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "全场低至2折起",
+        "saleTime": "剩1天",
+        "linkId": "25704"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e07dbd19313.jpg",
+        "type": 3,
+        "title": "Abeillevie&UYUK潮男男装联合专区",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-5 199-10",
+        "saleTime": "剩1天",
+        "linkId": "25671"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df135234473.jpg",
+        "type": 3,
+        "title": "与熙 秋款女鞋专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满80减10 150减20",
+        "saleTime": "剩1天",
+        "linkId": "25571"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e01935da348.jpg",
+        "type": 3,
+        "title": "FLYCO飞科品牌专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满199减20 299减40",
+        "saleTime": "剩1天",
+        "linkId": "25560"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e07ee6ea751.jpg",
+        "type": 3,
+        "title": "赛棉 袜品内裤初秋焕新购",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满2件减5元 3件减10元",
+        "saleTime": "剩1天",
+        "linkId": "25423"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df1741f1412.jpg",
+        "type": 3,
+        "title": "LAMMA ISLAND 时尚箱包专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减10 199减20",
+        "saleTime": "剩1天",
+        "linkId": "25496"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df379314dc3.jpg",
+        "type": 3,
+        "title": "Thrasher美国潮牌服饰特卖专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满299减10满399减20元",
+        "saleTime": "剩1天",
+        "linkId": "25620"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e08e72e2e19.jpg",
+        "type": 3,
+        "title": "杜戛地DZRZVD 运动户外专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减5 满169减10 满299减30",
+        "saleTime": "剩1天",
+        "linkId": "25638"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59deddf90571f.jpg",
+        "type": 3,
+        "title": "Omlesa 轻薄羽绒服特惠专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满2件减5满3件减10元",
+        "saleTime": "剩1天",
+        "linkId": "25412"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59ded3e52de96.jpg",
+        "type": 3,
+        "title": "兰士顿&VR数码混合专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满99减10 169减20",
+        "saleTime": "剩1天",
+        "linkId": "25573"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df35fe780ef.jpg",
+        "type": 3,
+        "title": "硕源居家百货专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满69减5 99减10",
+        "saleTime": "剩1天",
+        "linkId": "25607"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc603e29b96.jpg",
+        "type": 3,
+        "title": "海淘日用洗护专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199-10 299-30",
+        "saleTime": "剩1天",
+        "linkId": "25491"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171013/59e011a5f378a.jpg",
+        "type": 3,
+        "title": "匹奇&美克斯个护专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-10 189-20",
+        "saleTime": "剩1天",
+        "linkId": "25460"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59dee10f7a7f0.jpg",
+        "type": 3,
+        "title": "曼秀雷敦&妮维雅混合专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-5 199-15",
+        "saleTime": "剩1天",
+        "linkId": "25563"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59defe6e13a8a.jpg",
+        "type": 3,
+        "title": "瑞士蔻诗弥品牌专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满99减20 199减50",
+        "saleTime": "剩1天",
+        "linkId": "25591"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc699acda27.jpg",
+        "type": 3,
+        "title": "tectop探拓 男女户外专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "http://img.shandjj.com/uploads/20171010/59dc6a13b4c3b.png",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减10 满159减20 满299减30",
+        "saleTime": "剩22小时",
+        "linkId": "25434"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df39852829b.jpg",
+        "type": 3,
+        "title": "传奇保罗 秋冬焕新专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-5 199-10",
+        "saleTime": "剩22小时",
+        "linkId": "25600"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df3e6f98a9d.jpg",
+        "type": 3,
+        "title": "LeeLFF秋冬牛仔裤专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满2件减10元",
+        "saleTime": "剩22小时",
+        "linkId": "25498"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df3d688d9a6.jpg",
+        "type": 3,
+        "title": "梵柯施VANCOSS女装上新专区",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满2件减10元 3件减20",
+        "saleTime": "剩22小时",
+        "linkId": "25568"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df31c4bdd93.jpg",
+        "type": 3,
+        "title": "泰国人气单品混合专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满3件减8元",
+        "saleTime": "剩22小时",
+        "linkId": "25608"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59dde0e43ed1e.jpg",
+        "type": 3,
+        "title": "伯爵卓尔男装秋上新专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199减20元满299减50元",
+        "saleTime": "剩14小时",
+        "linkId": "25554"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59ddb4dc4a81a.jpg",
+        "type": 3,
+        "title": "歌芸荟 时尚女装特卖专区",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满129减5满199减10元",
+        "saleTime": "剩14小时",
+        "linkId": "25445"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc65f74dbe4.jpg",
+        "type": 3,
+        "title": "CASIO卡西欧腕表专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 50元无门槛券 满600减100",
+        "saleTime": "剩14小时",
+        "linkId": "24508"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59ded8cc5c879.jpg",
+        "type": 3,
+        "title": "俏莉芙 女士运动健身专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99减5 满199减15",
+        "saleTime": "剩22小时",
+        "linkId": "25577"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df4143b6f8a.jpg",
+        "type": 3,
+        "title": "卓狼zhuowolves休闲潮牌专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满2件减10元 3件减20元",
+        "saleTime": "剩22小时",
+        "linkId": "25599"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59df3ff9f3fb6.jpg",
+        "type": 3,
+        "title": "七匹狼 内衣专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满99-5 199-10 299-15",
+        "saleTime": "剩22小时",
+        "linkId": "25425"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59dddd3b16516.jpg",
+        "type": 3,
+        "title": "可尔妮 品牌女鞋秋尚专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199减10 299减20",
+        "saleTime": "剩22小时",
+        "linkId": "25510"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc7bc703635.jpg",
+        "type": 3,
+        "title": "百易特家居百货专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满69减5 99减10",
+        "saleTime": "剩22小时",
+        "linkId": "25482"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171010/59dc722f3790f.jpg",
+        "type": 3,
+        "title": "NH挪客 户外运动装备专场",
+        "viewType": "1",
+        "flashDown": "闪降最高100元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "全场低至2折起",
+        "saleTime": "剩14小时",
+        "linkId": "25499"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171011/59ddd96c3170e.jpg",
+        "type": 3,
+        "title": "Draconite 时尚男女箱包帽子专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券满199减10 299减30",
+        "saleTime": "剩14小时",
+        "linkId": "25522"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59debe436592d.jpg",
+        "type": 3,
+        "title": "海娜妮家纺专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "满199减20 满99送拖鞋",
+        "saleTime": "剩14小时",
+        "linkId": "25562"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59dec89c7f22d.jpg",
+        "type": 3,
+        "title": "卓谷智能数码专场",
+        "viewType": "1",
+        "flashDown": "闪降最高30元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券199-20 399-50",
+        "saleTime": "剩14小时",
+        "linkId": "25569"
+      },
+      {
+        "imgUrl": "http://img.shandjj.com/uploads/20171012/59dec2b865b97.jpg",
+        "type": 3,
+        "title": "Bestdon邦顿腕表专场",
+        "viewType": "1",
+        "flashDown": "闪降最高20元",
+        "cornerIcon": "",
+        "goods": [],
+        "wh": "844:514",
+        "salePoint": "领券 满299减10 399减20 699减50",
+        "saleTime": "剩22小时",
+        "linkId": "25538"
+      }
+    ],
+    "templates": [
+      {
+        "title": "",
+        "tType": 0,
+        "item": [
+          {
+            "imgUrl": "http://img.shandjj.com/uploads/20171016/59e46a429560d.png",
+            "type": "2",
+            "name": "",
+            "link": "http://m.shandjj.com/index.php/CustomerNew/newCustomer",
+            "wh": "750:630"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "tType": 2,
+        "item": [
+          {
+            "imgUrl": "http://img.shandjj.com/uploads/20171016/59e40b697e43f.jpg",
+            "type": "2",
+            "name": "",
+            "link": "http://m.shandjj.com/index.php/ActivitySpike/index/tj/3",
+            "wh": "249:429",
+            "seckills": [
+              {
+                "seckillTitle": "12:30",
+                "time": "1508128200"
+              },
+              {
+                "seckillTitle": "17:30",
+                "time": "1508146200"
+              },
+              {
+                "seckillTitle": "21:30",
+                "time": "1508160600"
+              },
+              {
+                "seckillTitle": "9:30",
+                "time": "1508203800"
+              }
+            ]
+          },
+          {
+            "imgUrl": "http://img.shandjj.com/uploads/20171016/59e40b2da57d2.jpg",
+            "type": "2",
+            "name": "",
+            "link": "http://m.shandjj.com/index.php/LightningBargain/init.html",
+            "wh": "501:224"
+          },
+          {
+            "imgUrl": "http://img.shandjj.com/uploads/20170927/59cb1334147da.png",
+            "type": "2",
+            "name": "",
+            "link": "http://hd.shandjj.com/index.php/Preheat/index",
+            "wh": "251:205"
+          },
+          {
+            "imgUrl": "http://img.shandjj.com/uploads/20171016/59e40b379276c.jpg",
+            "type": "2",
+            "name": "",
+            "link": "http://m.shandjj.com/index.php/Discount/Discount.html",
+            "wh": "250:205"
+          }
+        ]
+      }
+    ],
+    "sex": 1,
+    "brands": [
+      {
+        "brandId": "5540",
+        "brandName": "BAPE",
+        "imgUrl": "http://img.shandjj.com/fdc/20170407/img/14915482596653179.jpg"
+      },
+      {
+        "brandId": "2061",
+        "brandName": "耐克nike",
+        "imgUrl": "http://img.shandjj.com/fdc/2017/20170112/18/58771fc7e9233.png"
+      },
+      {
+        "brandId": "1701",
+        "brandName": "奢屯（LUXURY&SHOW）",
+        "imgUrl": "http://img.shandjj.com/fdc/20170418/img/14925304051032906.png"
+      },
+      {
+        "brandId": "2072",
+        "brandName": "adidas 阿迪达斯",
+        "imgUrl": "http://img.shandjj.com/fdc/2016/20161227/07/58622f6db70d7.jpg"
+      },
+      {
+        "brandId": "455",
+        "brandName": "Calvin Klein",
+        "imgUrl": "http://img.shandjj.com/img/uploads/20150723/55b090f8f0f09.jpg"
+      },
+      {
+        "brandId": "761",
+        "brandName": "asics亚瑟士",
+        "imgUrl": "http://img.shandjj.com/fdc/2017/20170103/33/586b1b760fe3d.jpg"
+      },
+      {
+        "brandId": "926",
+        "brandName": "Daniel Wellington",
+        "imgUrl": "http://img.shandjj.com/fdc/2017/20170223/10/58aed11e130a7.jpg"
+      },
+      {
+        "brandId": "3735",
+        "brandName": "斯凯奇skechers",
+        "imgUrl": "http://img.shandjj.com/fdc/2016/20160606/43/575529a029346.jpg"
+      }
+    ],
+    "currentTime": 1508151077
+  }
+}
+
+
